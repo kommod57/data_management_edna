@@ -1,0 +1,327 @@
+TestId,ESVId,Kingdom,Phylum,Class,Order,Family,Genus,Species,Accession,PercMatch
+UniCOI,ESV_424453,Eukaryota,Arthropoda,Malacostraca,Isopoda,Cymothoidae,Livoneca,Livoneca redmanii,MK038770,75.7
+UniCOI,ESV_424440,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Macrotrichidae,Macrothrix,Macrothrix sp. HE-364,KC617066,97.8
+UniCOI,ESV_424428,Eukaryota,Arthropoda,Malacostraca,Decapoda,Alpheidae,Alpheus,Alpheus paraformosus,MN184082,76.7
+UniCOI,ESV_424428,Eukaryota,Arthropoda,Malacostraca,Decapoda,Alpheidae,Alpheus,Alpheus formosus,KP255272,76.4
+UniCOI,ESV_424428,Eukaryota,Arthropoda,Malacostraca,Decapoda,Alpheidae,Alpheus,Alpheus formosus,KP254257,76.4
+UniCOI,ESV_424428,Eukaryota,Arthropoda,Malacostraca,Decapoda,Alpheidae,Alpheus,Alpheus formosus,KF131535,76.7
+UniCOI,ESV_424428,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium crenulatum,JF810997,76.4
+UniCOI,ESV_424428,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium crenulatum,JF810996,76.4
+UniCOI,ESV_424428,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium crenulatum,JF810993,76
+UniCOI,ESV_424428,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium crenulatum,JF810992,76.7
+UniCOI,ESV_424428,Eukaryota,Arthropoda,Malacostraca,Decapoda,Alpheidae,Alpheus,Alpheus formosus,EF532609,76.7
+UniCOI,ESV_424428,Eukaryota,Arthropoda,Malacostraca,Decapoda,Alpheidae,Alpheus,Alpheus formosus,EF532608,77
+UniCOI,ESV_424412,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium feunteuni,GU205055,76
+UniCOI,ESV_424396,Eukaryota,Arthropoda,Malacostraca,Decapoda,Portunidae,Callinectes,Callinectes sapidus,MH985984,71.6
+UniCOI,ESV_422595,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Chiltoniidae,,,KT958174,75.1
+UniCOI,ESV_422595,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Niphargidae,Niphargus,Niphargus hadzii,KR905800,74.1
+UniCOI,ESV_422555,Eukaryota,Arthropoda,Malacostraca,Isopoda,Armadillidae,Troglarmadillo,Troglarmadillo sp. WAM TRGL001,MW021261,98.1
+UniCOI,ESV_199410,Eukaryota,Arthropoda,Malacostraca,Euphausiacea,Euphausiidae,Meganyctiphanes,Meganyctiphanes norvegica,AY601091,74.4
+UniCOI,ESV_424384,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Hyalellidae,Hyalella,Hyalella azteca,OR859561,100
+UniCOI,ESV_424365,Eukaryota,Arthropoda,Malacostraca,Decapoda,Portunidae,Callinectes,Callinectes sapidus,JX123453,71.7
+UniCOI,ESV_424348,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium dienbienphuense,MW845469,76.4
+UniCOI,ESV_424348,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium dienbienphuense,MW845468,76
+UniCOI,ESV_424348,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium dienbienphuense,MW845466,76
+UniCOI,ESV_424348,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium dienbienphuense,MW845465,76
+UniCOI,ESV_424348,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium dienbienphuense,MW845458,76.7
+UniCOI,ESV_424348,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium dienbienphuense,MW845457,76
+UniCOI,ESV_424348,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium dienbienphuense,MW845456,77
+UniCOI,ESV_424348,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium dienbienphuense,MW845451,76
+UniCOI,ESV_424348,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium dienbienphuense,MW845448,76.4
+UniCOI,ESV_424348,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium dienbienphuense,MW845447,76
+UniCOI,ESV_424243,Eukaryota,Arthropoda,Malacostraca,Decapoda,Coenobitidae,Coenobita,Coenobita purpureus,LC065575,71.5
+UniCOI,ESV_424243,Eukaryota,Arthropoda,Malacostraca,Decapoda,Coenobitidae,Coenobita,Coenobita purpureus,LC065562,71.5
+UniCOI,ESV_424198,Eukaryota,Arthropoda,Malacostraca,Decapoda,Potamidae,Geothelphusa,Geothelphusa makatao,AB474179,76.7
+UniCOI,ESV_424198,Eukaryota,Arthropoda,Malacostraca,Decapoda,Potamidae,Geothelphusa,Geothelphusa aff. olea HS-2008,AB453225,76.7
+UniCOI,ESV_424198,Eukaryota,Arthropoda,Malacostraca,Decapoda,Potamidae,Geothelphusa,Geothelphusa aff. olea HS-2008,AB453223,76.7
+UniCOI,ESV_424198,Eukaryota,Arthropoda,Malacostraca,Decapoda,Potamidae,Geothelphusa,Geothelphusa pingtung,AB266291,77
+UniCOI,ESV_424198,Eukaryota,Arthropoda,Malacostraca,Decapoda,Potamidae,Geothelphusa,Geothelphusa pingtung,AB266290,77
+UniCOI,ESV_424198,Eukaryota,Arthropoda,Malacostraca,Decapoda,Potamidae,Geothelphusa,Geothelphusa pingtung,AB266289,76.7
+UniCOI,ESV_424198,Eukaryota,Arthropoda,Malacostraca,Decapoda,Potamidae,Geothelphusa,Geothelphusa pingtung,AB266288,77.3
+UniCOI,ESV_424198,Eukaryota,Arthropoda,Malacostraca,Decapoda,Potamidae,Geothelphusa,Geothelphusa pingtung,AB266285,76.4
+UniCOI,ESV_424198,Eukaryota,Arthropoda,Malacostraca,Decapoda,Potamidae,Geothelphusa,Geothelphusa pingtung,AB266284,77
+UniCOI,ESV_424198,Eukaryota,Arthropoda,Malacostraca,Decapoda,Potamidae,Geothelphusa,Geothelphusa pingtung,AB266283,76.4
+UniCOI,ESV_424198,Eukaryota,Arthropoda,Malacostraca,Decapoda,Potamidae,Geothelphusa,Geothelphusa olea,AB266266,77
+UniCOI,ESV_424133,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Niphargidae,Niphargus,Niphargus sp. ND427,OK156961,75.4
+UniCOI,ESV_424133,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Niphargidae,Niphargus,Niphargus sp. ND424,OK156958,75.4
+UniCOI,ESV_424133,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Niphargidae,Niphargus,Niphargus sp. ND419,OK156954,76
+UniCOI,ESV_424133,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Niphargidae,Niphargus,Niphargus sp. ND418,OK156953,76
+UniCOI,ESV_424133,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Niphargidae,Niphargus,Niphargus grandii,KY706778,75.4
+UniCOI,ESV_424093,Eukaryota,Arthropoda,Malacostraca,Decapoda,Epialtidae,Epialtus,Epialtus brasiliensis,KC695780,70.6
+UniCOI,ESV_424086,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium asperulum,AB250536,77.4
+UniCOI,ESV_424086,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium asperulum,AB250516,77.4
+UniCOI,ESV_424086,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium asperulum,AB250515,77.1
+UniCOI,ESV_424086,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium asperulum,AB250508,77.1
+UniCOI,ESV_424086,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium asperulum,AB250488,77.1
+UniCOI,ESV_424086,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium asperulum,AB250487,77.1
+UniCOI,ESV_424026,Eukaryota,Arthropoda,Malacostraca,Decapoda,Cambaridae,Procambarus,Procambarus clarkii,JX441374,100
+UniCOI,ESV_423697,Eukaryota,Arthropoda,Malacostraca,Bathynellacea,Parabathynellidae,Atopobathynella,Atopobathynella sp. Biologic-PBAT043,OR653786,76.4
+UniCOI,ESV_423293,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium crenulatum,JF810995,76
+UniCOI,ESV_423293,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium crenulatum,GU205051,76
+UniCOI,ESV_423760,Eukaryota,Arthropoda,Malacostraca,Decapoda,,,,MH338427,71.2
+UniCOI,ESV_423709,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Scinidae,Scina,Scina cf. curvidactyla HBG5964,MH572677,78.3
+UniCOI,ESV_423479,Eukaryota,Arthropoda,Malacostraca,Bathynellacea,Parabathynellidae,Iberobathynella,Iberobathynella cf. imuniensis MNCN ADN 54926,MZ128379,77.6
+UniCOI,ESV_180754,Eukaryota,Arthropoda,Malacostraca,Amphipoda,,,,MH330733,72.5
+UniCOI,ESV_180754,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Gammaridae,Gammarus,Gammarus wilkitzkii,MG317335,71.6
+UniCOI,ESV_423585,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Lysianassidae,Pseudorchomene,Pseudorchomene rossi,MH825788,71.5
+UniCOI,ESV_423585,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Lysianassidae,Pseudorchomene,Pseudorchomene rossi,MH825785,71.5
+UniCOI,ESV_423585,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Lysianassidae,Pseudorchomene,Pseudorchomene rossi,MH825783,71.5
+UniCOI,ESV_423585,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Lysianassidae,Abyssorchomene,Abyssorchomene rossi,HM054003,71.5
+UniCOI,ESV_423585,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Lysianassidae,Abyssorchomene,Abyssorchomene rossi,HM054002,71.8
+UniCOI,ESV_423585,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Lysianassidae,Abyssorchomene,Abyssorchomene rossi,HM054001,71.8
+UniCOI,ESV_423585,Eukaryota,Arthropoda,Malacostraca,Amphipoda,,,,EF989712,72.2
+UniCOI,ESV_423585,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Scinidae,Scina,Scina borealis,EF989699,71.5
+UniCOI,ESV_423571,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium panamense,OR941394,72.8
+UniCOI,ESV_423571,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium panamense,OR941393,72.8
+UniCOI,ESV_423571,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium panamense,OR941392,73.2
+UniCOI,ESV_423571,Eukaryota,Arthropoda,Malacostraca,Decapoda,Alpheidae,Synalpheus,Synalpheus brevicarpus A KMH-2014,KJ595043,72.7
+UniCOI,ESV_423460,Eukaryota,Arthropoda,Malacostraca,Bathynellacea,Parabathynellidae,Atopobathynella,Atopobathynella wattsi,MK546360,73.5
+UniCOI,ESV_423455,Eukaryota,Arthropoda,Malacostraca,Decapoda,Alpheidae,Synalpheus,Synalpheus brevicarpus A KMH-2014,KJ595045,72.7
+UniCOI,ESV_423297,Eukaryota,Arthropoda,Malacostraca,Decapoda,Potamidae,Indochinamon,Indochinamon bhumibol,NC_050694,70.3
+UniCOI,ESV_423268,Eukaryota,Arthropoda,Thecostraca,unk_order,Polyascidae,Parasacculina,Parasacculina sp. 1 JJ-2023a,OR481972,81.2
+UniCOI,ESV_423113,Eukaryota,Arthropoda,Malacostraca,Decapoda,Cambaridae,Procambarus,Procambarus fallax,HQ171458,72.5
+UniCOI,ESV_423113,Eukaryota,Arthropoda,Malacostraca,Decapoda,Cambaridae,Procambarus,Procambarus fallax,HQ171455,72.2
+UniCOI,ESV_422823,Eukaryota,Arthropoda,Malacostraca,Decapoda,Coenobitidae,Coenobita,Coenobita brevimanus,LC053630,72.2
+UniCOI,ESV_422823,Eukaryota,Arthropoda,Malacostraca,Decapoda,Coenobitidae,Coenobita,Coenobita brevimanus,LC053626,72.8
+UniCOI,ESV_422823,Eukaryota,Arthropoda,Malacostraca,Decapoda,Coenobitidae,Coenobita,Coenobita brevimanus,LC053621,72.8
+UniCOI,ESV_422823,Eukaryota,Arthropoda,Malacostraca,Decapoda,Coenobitidae,Coenobita,Coenobita brevimanus,LC053620,72.5
+UniCOI,ESV_423057,Eukaryota,Arthropoda,Malacostraca,Decapoda,Xanthidae,Chlorodiella,Chlorodiella nigra,MZ900924,70.9
+UniCOI,ESV_423000,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium dienbienphuense,MW845463,76
+UniCOI,ESV_422850,Eukaryota,Arthropoda,Thecostraca,unk_order,Sacculinidae,Sacculina,Sacculina sp.,OR667011,76.7
+UniCOI,ESV_422848,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Caprellidae,Caprella,Caprella acanthogaster,NC_072119,77.3
+UniCOI,ESV_422848,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Lysianassidae,Abyssorchomene,Abyssorchomene gerulicorbis,MZ474268,77.3
+UniCOI,ESV_422848,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Lysianassidae,Abyssorchomene,Abyssorchomene gerulicorbis,MN262164,77.3
+UniCOI,ESV_422848,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Lysianassidae,Abyssorchomene,Abyssorchomene gerulicorbis,MN262163,77.6
+UniCOI,ESV_422848,Eukaryota,Arthropoda,Malacostraca,Amphipoda,,,,KY263499,77.6
+UniCOI,ESV_422848,Eukaryota,Arthropoda,Malacostraca,Amphipoda,,,,KY263440,77.3
+UniCOI,ESV_422848,Eukaryota,Arthropoda,Malacostraca,Amphipoda,,,,KY263013,77.6
+UniCOI,ESV_422848,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Ischyroceridae,Jassa,Jassa marmorata,KT209459,77.3
+UniCOI,ESV_422848,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Lysianassidae,Abyssorchomene,Abyssorchomene sp. 1 HR-2015,KP713891,77.3
+UniCOI,ESV_422848,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Ischyroceridae,Jassa,Jassa marmorata,KP255310,77.3
+UniCOI,ESV_422848,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Caprellidae,Caprella,Caprella californica,KF743432,77.3
+UniCOI,ESV_422848,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Cyamidae,Cyamus,Cyamus ovalis,GU172235,77.3
+UniCOI,ESV_422848,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Cyamidae,Cyamus,Cyamus gracilis,DQ095050,77.3
+UniCOI,ESV_422848,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Cyamidae,Cyamus,Cyamus gracilis,DQ095049,77.3
+UniCOI,ESV_422820,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Photidae,,,HQ945459,74.1
+UniCOI,ESV_422794,Eukaryota,Arthropoda,Malacostraca,Decapoda,Portunidae,Scylla,Scylla paramamosain,MZ393866,70.6
+UniCOI,ESV_422794,Eukaryota,Arthropoda,Malacostraca,Decapoda,Portunidae,Scylla,Scylla paramamosain,MG197997,70.3
+UniCOI,ESV_422794,Eukaryota,Arthropoda,Malacostraca,Decapoda,Portunidae,Scylla,Scylla sp. S_H4_2,MF191615,70.3
+UniCOI,ESV_422794,Eukaryota,Arthropoda,Malacostraca,Decapoda,Portunidae,Scylla,Scylla sp. S_H2_3,MF191613,70.3
+UniCOI,ESV_422794,Eukaryota,Arthropoda,Malacostraca,Decapoda,Portunidae,Scylla,Scylla sp. S_H2_2,MF191612,70.6
+UniCOI,ESV_422794,Eukaryota,Arthropoda,Malacostraca,Decapoda,Portunidae,Scylla,Scylla sp. S_H2_1,MF191611,70.3
+UniCOI,ESV_422794,Eukaryota,Arthropoda,Malacostraca,Decapoda,Portunidae,Scylla,Scylla sp. S_H1_2,MF191609,70.3
+UniCOI,ESV_422794,Eukaryota,Arthropoda,Malacostraca,Decapoda,Portunidae,Scylla,Scylla sp. S_H1_1,MF191608,70.3
+UniCOI,ESV_422794,Eukaryota,Arthropoda,Malacostraca,Decapoda,Portunidae,Scylla,Scylla paramamosain,FJ827761,70.6
+UniCOI,ESV_422749,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Scinidae,Scina,Scina sp.,OR378980,76.7
+UniCOI,ESV_422749,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Scinidae,Scina,Scina sp. USNM IZ 1448927,OK340094,76.4
+UniCOI,ESV_422749,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Scinidae,Scina,Scina sp. USNM IZ 1448924,OK340092,76.4
+UniCOI,ESV_422729,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Chiltoniidae,,,KT958226,71.4
+UniCOI,ESV_422729,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Chiltoniidae,Austrochiltonia,Austrochiltonia sp. 'Northern',JX900273,71.4
+UniCOI,ESV_422729,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Chiltoniidae,Austrochiltonia,Austrochiltonia sp. 'Northern',JX900217,71.1
+UniCOI,ESV_422729,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Chiltoniidae,Austrochiltonia,Austrochiltonia sp. 'Northern',JX900200,70.8
+UniCOI,ESV_422669,Eukaryota,Arthropoda,Malacostraca,Decapoda,Cambaridae,Procambarus,Procambarus spiculifer,JF737702,76.7
+UniCOI,ESV_422669,Eukaryota,Arthropoda,Malacostraca,Decapoda,Cambaridae,Procambarus,Procambarus spiculifer,JF737701,76.4
+UniCOI,ESV_422626,Eukaryota,Arthropoda,Malacostraca,Decapoda,Oplophoridae,Acanthephyra,Acanthephyra purpurea,MH572631,70.9
+UniCOI,ESV_422626,Eukaryota,Arthropoda,Malacostraca,Decapoda,Oplophoridae,Acanthephyra,Acanthephyra purpurea,MH572611,71.2
+UniCOI,ESV_422626,Eukaryota,Arthropoda,Malacostraca,Decapoda,Oplophoridae,Acanthephyra,Acanthephyra purpurea,MH572608,71.2
+UniCOI,ESV_422626,Eukaryota,Arthropoda,Malacostraca,Decapoda,Oplophoridae,Acanthephyra,Acanthephyra purpurea,MH572597,70.6
+UniCOI,ESV_422626,Eukaryota,Arthropoda,Malacostraca,Decapoda,Oplophoridae,Acanthephyra,Acanthephyra purpurea,MG674607,70.9
+UniCOI,ESV_422626,Eukaryota,Arthropoda,Malacostraca,Decapoda,Pinnotheridae,Pinnixa,Pinnixa sp. HLC-24106,MG319650,71.2
+UniCOI,ESV_422626,Eukaryota,Arthropoda,Malacostraca,Decapoda,Oplophoridae,Acanthephyra,Acanthephyra quadrispinosa,KP076178,70.9
+UniCOI,ESV_422626,Eukaryota,Arthropoda,Malacostraca,Decapoda,Oplophoridae,Acanthephyra,Acanthephyra purpurea,KP076175,71.2
+UniCOI,ESV_422626,Eukaryota,Arthropoda,Malacostraca,Decapoda,Pinnotheridae,Pinnixa,Pinnixa sp. NJCGS300-10,HQ966502,71.2
+UniCOI,ESV_422625,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Pontogeneiidae,Awacaris,Awacaris yezoensis,LC146839,84.3
+UniCOI,ESV_422625,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Pontogeneiidae,Awacaris,Awacaris yezoensis,LC146838,84.3
+UniCOI,ESV_422625,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Pontogeneiidae,Awacaris,Awacaris yezoensis,LC146833,84
+UniCOI,ESV_422625,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Pontogeneiidae,Awacaris,Awacaris yezoensis,LC146826,84
+UniCOI,ESV_422625,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Pontogeneiidae,Awacaris,Awacaris yezoensis,LC146823,84.3
+UniCOI,ESV_422625,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Pontogeneiidae,Awacaris,Awacaris yezoensis,LC146822,84.3
+UniCOI,ESV_422625,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Pontogeneiidae,Awacaris,Awacaris yezoensis,LC146820,84.7
+UniCOI,ESV_422625,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Pontogeneiidae,Awacaris,Awacaris yezoensis,LC146819,84.3
+UniCOI,ESV_422625,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Pontogeneiidae,Awacaris,Awacaris yezoensis,LC146817,83.7
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Panopeidae,Rhithropanopeus,Rhithropanopeus harrisii,OP498321,83.7
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Sesarmidae,Parasesarma,Parasesarma pictum,NC_038066,84
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Sesarmidae,Parasesarma,Parasesarma pictum,MZ832133,84
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Sesarmidae,Parasesarma,Parasesarma gemmatum,MT023415,84.3
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Sesarmidae,Parasesarma,Parasesarma pictum,MT020719,84.3
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Sesarmidae,Parasesarma,Parasesarma catenatum,MT020709,84
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Sesarmidae,Nanosesarma,Nanosesarma andersoni,MN635597,83.4
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Mithracidae,Amphithrax,Amphithrax aculeatus,MN184081,83.4
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Grapsidae,Goniopsis,Goniopsis cruentata,MN183971,83.4
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Sesarmidae,Sarmatium,Sarmatium germaini,MK611601,83.4
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Sesarmidae,Pseudosesarma,Pseudosesarma crassimanum,MH290823,83.4
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Panopeidae,Rhithropanopeus,Rhithropanopeus harrisii,LN810636,83.4
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Panopeidae,Rhithropanopeus,Rhithropanopeus harrisii,LN810635,83.7
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Panopeidae,Rhithropanopeus,Rhithropanopeus harrisii,LN810615,84
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Panopeidae,Rhithropanopeus,Rhithropanopeus harrisii,LN810595,83.7
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Sesarmidae,Manarma,Manarma moeschii,LC537816,83.4
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Panopeidae,Eurypanopeus,Eurypanopeus depressus,KU905848,83.4
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Grapsidae,Goniopsis,Goniopsis cruentata,KU313334,83.4
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Grapsidae,Goniopsis,Goniopsis cruentata,KU313333,83.7
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Grapsidae,Goniopsis,Goniopsis cruentata,KU313332,83.7
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Grapsidae,Goniopsis,Goniopsis cruentata,KU313330,84
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Grapsidae,Goniopsis,Goniopsis cruentata,KU313328,84
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Grapsidae,Goniopsis,Goniopsis cruentata,KU313327,83.7
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Grapsidae,Goniopsis,Goniopsis cruentata,KU313326,83.4
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Grapsidae,Goniopsis,Goniopsis cruentata,KU313323,83.4
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Grapsidae,Goniopsis,Goniopsis cruentata,KU313315,83.4
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Grapsidae,Goniopsis,Goniopsis cruentata,KU313314,83.4
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Grapsidae,Goniopsis,Goniopsis cruentata,KU313304,83.4
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Grapsidae,Goniopsis,Goniopsis cruentata,KU313295,83.7
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Grapsidae,Goniopsis,Goniopsis cruentata,KU313293,83.4
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Grapsidae,Goniopsis,Goniopsis cruentata,KU313292,83.7
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Grapsidae,Goniopsis,Goniopsis cruentata,KU313280,84
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Grapsidae,Goniopsis,Goniopsis cruentata,KU313277,83.4
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Grapsidae,Goniopsis,Goniopsis cruentata,KU313275,83.7
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Grapsidae,Goniopsis,Goniopsis cruentata,KU313274,84
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Grapsidae,Goniopsis,Goniopsis cruentata,KU313272,83.7
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Grapsidae,Goniopsis,Goniopsis cruentata,KU313266,83.4
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Grapsidae,Goniopsis,Goniopsis cruentata,KU313265,83.4
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Grapsidae,Goniopsis,Goniopsis pulchra,KU313191,84
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Panopeidae,Eurypanopeus,Eurypanopeus depressus,KT959428,83.7
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Panopeidae,Rhithropanopeus,Rhithropanopeus harrisii,KT959393,84
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Majidae,Cyclocoeloma,Cyclocoeloma tuberculata,KF452963,83.4
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Majidae,Cyclocoeloma,Cyclocoeloma tuberculata,KF452960,83.7
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Sesarmidae,Orisarma,Orisarma dehaani,JX502891,84
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Sesarmidae,Orisarma,Orisarma dehaani,JX502890,84.3
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Sesarmidae,Orisarma,Orisarma dehaani,JX502889,84
+UniCOI,ESV_001429,Eukaryota,Arthropoda,Malacostraca,Decapoda,Majidae,Leptomithrax,Leptomithrax australis,GU804735,83.4
+BR5,ESV_141097,Eukaryota,Arthropoda,Ostracoda,Podocopida,Candonidae,Pseudocandona,Pseudocandona sp. n. AK-2019,MN013132,81.9
+BR5,ESV_141097,Eukaryota,Arthropoda,Ostracoda,Podocopida,Candonidae,Fabaeformiscandona,Fabaeformiscandona acuminata,MN013124,81.9
+BR5,ESV_141097,Eukaryota,Arthropoda,Ostracoda,Podocopida,Macrocyprididae,Macroscapha,Macroscapha walterae,GU566892,81
+BR5,ESV_141071,Eukaryota,Arthropoda,Ostracoda,Podocopida,Candonidae,Fabaeformiscandona,Fabaeformiscandona aemonae,MN013135,82.6
+BR5,ESV_141065,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Niphargidae,Niphargus,Niphargus grandii,OK156794,71.3
+BR5,ESV_141065,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Niphargidae,Niphargus,Niphargus grandii,OK156788,71.3
+BR5,ESV_141065,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Niphargidae,Niphargus,Niphargus vjetrenicensis,KY643560,71.9
+BR5,ESV_141047,Eukaryota,Arthropoda,Malacostraca,Mysida,Mysidae,Michthyops,Michthyops parvus,MK803436,80.3
+BR5,ESV_139004,Eukaryota,Arthropoda,Malacostraca,Decapoda,Oregoniidae,Pleistacantha,Pleistacantha kannu,MH425628,71
+BR5,ESV_139004,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Lysianassidae,Scopelocheirus,Scopelocheirus schellenbergi,AY830439,70.7
+BR5,ESV_114252,Eukaryota,Arthropoda,Malacostraca,Decapoda,NA,NA,NA,HM463580,70.6
+BR5,ESV_114252,Eukaryota,Arthropoda,Malacostraca,Decapoda,NA,NA,NA,HM463575,71
+BR5,ESV_114252,Eukaryota,Arthropoda,Malacostraca,Decapoda,NA,NA,NA,HM463574,70.6
+BR5,ESV_114252,Eukaryota,Arthropoda,Malacostraca,Decapoda,NA,NA,NA,HM463569,70.6
+BR5,ESV_114252,Eukaryota,Arthropoda,Malacostraca,Decapoda,NA,NA,NA,HM463564,71
+BR5,ESV_114252,Eukaryota,Arthropoda,Malacostraca,Decapoda,NA,NA,NA,HM463556,70.6
+BR5,ESV_114252,Eukaryota,Arthropoda,Malacostraca,Decapoda,NA,NA,NA,HM463554,71
+BR5,ESV_114252,Eukaryota,Arthropoda,Malacostraca,Decapoda,NA,NA,NA,HM463549,70.6
+BR5,ESV_114252,Eukaryota,Arthropoda,Malacostraca,Decapoda,NA,NA,NA,HM463541,70.6
+BR5,ESV_114252,Eukaryota,Arthropoda,Malacostraca,Decapoda,NA,NA,NA,HM463539,71
+BR5,ESV_114252,Eukaryota,Arthropoda,Malacostraca,Decapoda,NA,NA,NA,HM463520,70.6
+BR5,ESV_114252,Eukaryota,Arthropoda,Malacostraca,Decapoda,NA,NA,NA,HM463506,71
+BR5,ESV_114252,Eukaryota,Arthropoda,Malacostraca,Decapoda,NA,NA,NA,HM463420,70.6
+BR5,ESV_114252,Eukaryota,Arthropoda,Malacostraca,Decapoda,NA,NA,NA,HM463409,71
+BR5,ESV_114252,Eukaryota,Arthropoda,Malacostraca,Decapoda,NA,NA,NA,HM463402,71.3
+BR5,ESV_114252,Eukaryota,Arthropoda,Malacostraca,Decapoda,NA,NA,NA,HM463398,71
+BR5,ESV_114252,Eukaryota,Arthropoda,Malacostraca,Decapoda,NA,NA,NA,HM463370,71
+BR5,ESV_140931,Eukaryota,Arthropoda,Malacostraca,Cumacea,Nannastacidae,Campylaspis,Campylaspis horrida,MK757522,72.9
+BR5,ESV_073738,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Ischyroceridae,NA,NA,MT021246,76.1
+BR5,ESV_059645,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Daphniidae,NA,NA,MF748804,71.3
+BR5,ESV_059645,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Daphniidae,NA,NA,MF748520,71.3
+BR5,ESV_059645,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Daphniidae,NA,NA,MF743154,71.3
+BR5,ESV_140712,Eukaryota,Arthropoda,Malacostraca,Decapoda,Porcellanidae,Petrolisthes,Petrolisthes rufescens,MW698869,70
+BR5,ESV_140712,Eukaryota,Arthropoda,Malacostraca,Decapoda,Porcellanidae,Petrolisthes,Petrolisthes boscii,MW686211,70
+BR5,ESV_140590,Eukaryota,Arthropoda,Malacostraca,Isopoda,Armadillidae,Spherillo,Spherillo sp. shi-1,LC054208,71.6
+BR5,ESV_140590,Eukaryota,Arthropoda,Malacostraca,Isopoda,Armadillidae,Spherillo,Spherillo sp. Kanzaki,LC054207,71.6
+BR5,ESV_140590,Eukaryota,Arthropoda,Malacostraca,Isopoda,Armadillidae,Spherillo,Spherillo sp. Tamano1,LC054203,71.6
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch368_Yakutia,MW621427,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch366_Yakutia,MW621426,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch365_Yakutia,MW621425,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch364_Yakutia,MW621424,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch363_Yakutia,MW621423,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch362_Yakutia,MW621422,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch361_Yakutia,MW621421,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch354_Australia,MW621420,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch353_Australia,MW621419,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch352_Tasmania,MW621418,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch351_Tasmania,MW621417,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch350_Tasmania,MW621416,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch349_Tasmania,MW621415,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch348_Canada,MW621414,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch347_Canada,MW621413,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch340_Canada,MW621406,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch339_Canada,MW621405,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch338_Canada,MW621404,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch337_Canada,MW621403,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch336_Canada,MW621402,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch335_Canada,MW621401,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch328_USA,MW621400,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch323_USA,MW621399,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch321_USA,MW621398,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch320_USA,MW621397,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch294_Yakutia,MW621396,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch293_Yakutia,MW621395,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch292_Yakutia,MW621394,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch291_Yakutia,MW621393,98.7
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch290_Yakutia,MW621392,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch289_Yakutia,MW621391,98.7
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch288_Yakutia,MW621390,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch287_Yakutia,MW621389,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch286_Yakutia,MW621388,98.7
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch285_Yakutia,MW621387,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch284_Yakutia,MW621386,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch283_Korea,MW621385,98.7
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch282_Korea,MW621384,98.7
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch281_Korea,MW621383,98.7
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch280_Korea,MW621382,98.7
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch279_Korea,MW621381,98.7
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch278_Korea,MW621380,98.7
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch277_Korea,MW621379,98.7
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch276_Korea,MW621378,98.7
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch275_Korea,MW621377,98.7
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch274_Korea,MW621376,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch273_Korea,MW621375,98.7
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. Ch272_Korea,MW621374,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus,MT429218,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus,MT429211,98.7
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. A3,LC667438,99.7
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. A3,KX431662,99.4
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. A3,KX431635,98.7
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. A3,KX431626,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. A3,KX431625,98.7
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. A3,KX431609,98.7
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. A3,KX431608,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. A3,KX431607,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. A3,KX431604,98.7
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,NA,NA,KC617257,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus,JN290661,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. A3,JN233872,98.7
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. A3,HQ972026,98.7
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sphaericus complex sp. A3,GU680570,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sp. MAB-2008,EU822328,98.7
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sp. 38Ala42a43Yuk32a33,EU719152,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sp. 37Yuk36,EU719151,98.7
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sp. 36Ala40a41Rus28,EU719150,99
+BR5,ESV_140453,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Chydoridae,Chydorus,Chydorus sp. 33Jap29,EU719149,99.4
+BR5,ESV_140434,Eukaryota,Arthropoda,Ostracoda,Podocopida,Cyprididae,NA,NA,ON661046,83.6
+BR5,ESV_140434,Eukaryota,Arthropoda,Ostracoda,Podocopida,Cyprididae,NA,NA,ON661016,83.6
+BR5,ESV_140434,Eukaryota,Arthropoda,Ostracoda,Podocopida,Cyprididae,NA,NA,ON661015,83.6
+BR5,ESV_140434,Eukaryota,Arthropoda,Ostracoda,Podocopida,Cyprididae,NA,NA,ON660990,83.3
+BR5,ESV_140434,Eukaryota,Arthropoda,Ostracoda,Podocopida,Cyprididae,Stenocypris,Stenocypris hislopi,MH937424,83.6
+BR5,ESV_140434,Eukaryota,Arthropoda,Ostracoda,Podocopida,Cyprididae,Heterocypris,Heterocypris incongruens,KF991574,82.6
+BR5,ESV_140434,Eukaryota,Arthropoda,Ostracoda,Podocopida,Cyprididae,Eucypris,Eucypris virens,GQ914608,83.2
+BR5,ESV_140434,Eukaryota,Arthropoda,Ostracoda,Podocopida,Cyprididae,Eucypris,Eucypris virens,GQ914485,82.6
+BR5,ESV_140434,Eukaryota,Arthropoda,Ostracoda,Podocopida,Cyprididae,Eucypris,Eucypris virens,GQ914466,82.6
+BR5,ESV_140434,Eukaryota,Arthropoda,Ostracoda,Podocopida,Cyprididae,Eucypris,Eucypris virens,GQ914463,82.9
+BR5,ESV_140434,Eukaryota,Arthropoda,Ostracoda,Podocopida,Cyprididae,Eucypris,Eucypris virens,GQ914336,82.6
+BR5,ESV_140430,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Lysianassidae,Scopelocheirus,Scopelocheirus schellenbergi,AY830438,72.3
+BR5,ESV_140352,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Talitridae,Talitroides,Talitroides topitotum,MG655906,100
+BR5,ESV_140333,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Lysianassidae,Eurythenes,Eurythenes gryllus,AY830436,70
+BR5,ESV_140306,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Lysianassidae,Orchomenella,Orchomenella cavimanus,GU109252,76.5
+BR5,ESV_140044,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Lysianassidae,Eurythenes,Eurythenes gryllus,AY830420,71.7
+BR5,ESV_138329,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Gammaridae,Gammarus,Gammarus denticulatus,MK624927,71
+BR5,ESV_139797,Eukaryota,Arthropoda,Branchiopoda,Diplostraca,Moinidae,Moina,Moina sp. ARRV-2013,KC479041,74.2
+BR5,ESV_139681,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Paracalliopiidae,Paracalliope,Paracalliope fluviatilis,KR336948,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Paracalliopiidae,Paracalliope,Paracalliope fluviatilis,KR336947,76.5
+BR5,ESV_139681,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Paracalliopiidae,Paracalliope,Paracalliope fluviatilis,KR336944,76.5
+BR5,ESV_139176,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Pardaliscidae,Halice,Halice walkeri,KT307647,77.4
+BR5,ESV_139107,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Eulimnogammaridae,Eulimnogammarus,Eulimnogammarus cyaneus,MK887660,74
+BR5,ESV_138975,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium lar,ON753707,96.5
+BR5,ESV_138975,Eukaryota,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Macrobrachium,Macrobrachium lar,GU205068,96.8
+BR5,ESV_138930,Eukaryota,Arthropoda,Malacostraca,Decapoda,Grapsidae,Grapsus,Grapsus albolineatus,MW692169,70.3
+BR5,ESV_138606,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Lysianassidae,Scopelocheirus,Scopelocheirus schellenbergi,AY830441,75.5
+BR5,ESV_138606,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Lysianassidae,Eurythenes,Eurythenes gryllus,AY830440,75.5
+BR5,ESV_138606,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Lysianassidae,Scopelocheirus,Scopelocheirus schellenbergi,AY830433,75.9
+BR5,ESV_138606,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Lysianassidae,Scopelocheirus,Scopelocheirus schellenbergi,AY830432,74.9
+BR5,ESV_138606,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Lysianassidae,Eurythenes,Eurythenes gryllus,AY830430,75.9
+BR5,ESV_138421,Eukaryota,Arthropoda,Malacostraca,Cumacea,Nannastacidae,Campylaspis,Campylaspis sulcata,MK757523,93.5
+BR5,ESV_025359,Eukaryota,Arthropoda,Malacostraca,Amphipoda,Ischyroceridae,NA,NA,GU689662,77.1

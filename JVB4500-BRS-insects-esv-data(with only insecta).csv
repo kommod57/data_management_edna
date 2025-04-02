@@ -1,0 +1,1310 @@
+TestId,ESVId,Kingdom,Phylum,Class,Order,Family,Genus,Species,Accession,PercMatch
+BR5,ESV_141100,Eukaryota,Arthropoda,Insecta,Coleoptera,Carabidae,Colpodes,Colpodes buchanani,OL343507,100
+BR5,ESV_141050,Eukaryota,Arthropoda,Insecta,Lepidoptera,Plutellidae,Acrolepiopsis,Acrolepiopsis sp. BKR0018,MH417375,72.3
+BR5,ESV_141050,Eukaryota,Arthropoda,Insecta,Coleoptera,Cerambycidae,Arhopalus,Arhopalus sp. 2 SZZ-2013,KF247257,72.3
+BR5,ESV_141050,Eukaryota,Arthropoda,Insecta,Lepidoptera,Hesperiidae,Phocides,Phocides pigmalion,HQ583525,72.3
+BR5,ESV_140475,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KT617290,82.3
+BR5,ESV_140059,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,KM562472,71.9
+BR5,ESV_139900,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,Cricotopus yatabensis,LC096203,100
+BR5,ESV_139611,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Grzegorzekia,Grzegorzekia hungarica,MH114424,73.9
+BR5,ESV_139611,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Exechia,Exechia dorsalis,MG096776,73.5
+BR5,ESV_139611,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Exechia,Exechia sp. BIOUG14749-A11,MF890111,73.5
+BR5,ESV_139611,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Exechia,Exechia sp. BIOUG27173-E12,MF887110,73.5
+BR5,ESV_139611,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Exechia,Exechia sp. BIOUG26496-C05,MF885170,73.5
+BR5,ESV_139611,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Exechia,Exechia sp. BIOUG26190-C08,MF885101,73.5
+BR5,ESV_139611,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Exechia,Exechia sp. BIOUG15990-H02,MF883853,73.5
+BR5,ESV_139611,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Exechia,Exechia sp. BIOUG27360-B01,MF883227,74.2
+BR5,ESV_139611,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR984649,73.2
+BR5,ESV_139611,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR983436,73.2
+BR5,ESV_139611,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR716604,73.2
+BR5,ESV_139611,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Exechia,Exechia sp. BOLD-2016,KR525670,73.5
+BR5,ESV_139611,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Exechia,Exechia sp. BOLD:ACC9967,KR254036,73.5
+BR5,ESV_139611,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR252453,73.5
+BR5,ESV_139611,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR248832,73.2
+BR5,ESV_139611,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Exechia,Exechia sp. BOLD:ACC9967,KM926732,74.2
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche analis,MG377043,98.7
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche sp. BOLD:AAA5695,KX295276,99
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche analis,KX292199,98.7
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche sp. BIOUG20782-H04,KX141263,99
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche analis,KX107306,98.7
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche analis,KX106356,98.7
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche analis,KX103086,98.7
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche analis,KX102966,98.7
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche analis,KR148835,99
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche sp. BOLD:AAA5695,KR148474,99
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche sp. BOLD:AAA5695,KR145101,98.7
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche analis,KM536774,98.7
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche analis,KM536669,98.7
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche nr. lasia BOLD:AAA5695,KM531480,99
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche analis,KM529700,98.7
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche nr. lasia BOLD:AAA5695,KM528754,99
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche analis,KJ449344,99
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche analis,KJ448034,98.7
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche analis,KJ448029,98.7
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche nr. analis BOLD:AAA5695,JN658029,99
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche nr. analis NBTRI025-08,JN658017,99
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche sp. AMISA234-08,JN198183,98.7
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche sp. BOLD:AAA5695,JN198180,98.7
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche sp. BOLD:AAA5695,JN198165,98.7
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche analis,HQ969963,99
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche analis,HQ969874,99.7
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche analis,HQ578346,99.4
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche sp. AMI 1,HQ152351,99
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche sp. AMI 1,HQ152348,99
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche sp. AMI 1,HQ152343,98.7
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche sp. AMI 1,HQ152120,98.7
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche sp. AMI 1,HQ152118,98.7
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche sp. AMI 1,HQ150377,98.7
+BR5,ESV_138302,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche analis,HM102602,98.7
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina digitata,MZ610855,70.3
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina digitata,MZ610735,70
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina sp. GS-spA,MZ610339,70
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladius sp. 9TE,MN665388,70.6
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina digitata,MG096162,70
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina digitata,MG092771,70
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina digitata,MG090322,70
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina digitata,MG089950,70.3
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina digitata,MF887652,70
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina digitata,MF887392,70
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides waringi,KT819759,70
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,NA,NA,KR509699,70
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina sp. BOLD-2016,KR498135,70
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina sp. BOLD-2016,KR494838,70
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladius sp. 9TE,KR456400,70.6
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina sp. BOLD-2016,KR433487,70
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina sp. BOLD:AAG4874,KR255787,70
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina sp. BOLD:AAG4874,KR245225,70
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina sp. BOLD:AAG4874,KR243367,70
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina sp. BOLD:AAG4874,KR243020,70.3
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina sp. BOLD:AAG4874,KR239109,70
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KM959540,70.3
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladius sp. 9TE,JN275455,70.6
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Neoempheria,Neoempheria sp. BOLD:AAG4912,HQ984624,70.3
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladius sp. 9TE,HM421535,70.3
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladius sp. 9TE,HM421419,70.3
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycomya,Mycomya sp. USDIQ1149-09,GU694853,70.3
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Diptera,NA,NA,NA,GU681112,70.3
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Lepidoptera,Pieridae,Anthocharis,Anthocharis cardamines,GU673002,70
+BR5,ESV_140985,Eukaryota,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Mellicta,Mellicta deione,GU672871,70
+BR5,ESV_140981,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,MH926462,71.9
+BR5,ESV_140932,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,KM559599,72.3
+BR5,ESV_140893,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR251152,76.1
+BR5,ESV_140893,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR237904,76.1
+BR5,ESV_140837,Eukaryota,Arthropoda,Insecta,NA,NA,NA,NA,KP420993,72
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,NA,NA,OP528289,87.4
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,Brachiacantha,Brachiacantha sp.,OK505682,88.4
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,NA,NA,MK084328,88.1
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,NA,NA,MK084120,87.7
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,NA,NA,MK083839,87.4
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,NA,NA,MK083827,88.4
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,NA,NA,MK083622,87.4
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,NA,NA,MK082754,87.7
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,NA,NA,MK082086,87.7
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,NA,NA,MK081409,87.4
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,NA,NA,MK081134,87.7
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,NA,NA,MK080882,87.4
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,Brachiacantha,Brachiacantha groendali,MH979995,88.1
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,NA,NA,MH927989,87.7
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,NA,NA,MH926883,88.1
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,Brumoides,Brumoides suturalis,KY845458,87.4
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,Brumoides,Brumoides suturalis,KY845425,87.7
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,Chilocorus,Chilocorus nigritus,KY833944,87.4
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,Brumoides,Brumoides suturalis,KY831736,88.1
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,Chilocorus,Chilocorus nigritus,KY831562,87.4
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,Chilocorus,Chilocorus nigritus,KX051943,87.7
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,Brumoides,Brumoides septentrionis,KU874482,88.1
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,Hyperaspis,Hyperaspis proba,KJ445209,88.1
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,Hyperaspis,Hyperaspis proba,KJ444321,88.1
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,NA,NA,NA,JF890584,87.4
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,NA,NA,NA,JF890583,87.7
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,NA,NA,NA,JF890553,87.4
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,NA,NA,JF890385,87.7
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,NA,NA,NA,HM891557,88.1
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,NA,NA,NA,HM424036,87.4
+BR5,ESV_140828,Eukaryota,Arthropoda,Insecta,Coleoptera,NA,NA,NA,HM424035,87.4
+BR5,ESV_140818,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,KM561203,73.2
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MG308279,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MG086281,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MG079447,75.2
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Apallates,Apallates sp. BIOUG24119-A07,MG079262,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Allodia,Allodia sp. BIOUG27489-H08,MF889214,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Allodia,Allodia sp. BIOUG26987-E09,MF885209,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF828423,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF828165,75.2
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF828107,75.2
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF827564,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF827021,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF826836,75.2
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF826810,75.2
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF826754,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF826369,75.5
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF825984,75.2
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF825103,75.2
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF824411,75.2
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF823982,75.2
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF823130,75.2
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF822969,75.2
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF822872,75.2
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF822328,75.2
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF821639,75.2
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF821528,75.2
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF820876,75.2
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF820861,75.2
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF820812,75.2
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF820528,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF820425,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF820214,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF820211,75.2
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF820124,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF820083,75.2
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF820031,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF819903,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF819874,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF819815,75.2
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF819735,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF819713,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF819651,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF819624,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF819569,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF819527,75.2
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF819465,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF819292,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF819160,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF818911,75.2
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF818890,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF818720,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Oscinella,Oscinella sp. BIOUG20467-H03,MF818592,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF818551,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Oscinella,Oscinella sp. BOLD-2016,KR475103,75.2
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Oscinella,Oscinella sp. BOLD:AAI3425,KR393522,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Allodia,Allodia sp. BOLD:AAP6499,KR257918,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Allodia,Allodia sp. BOLD:AAP6499,KR257707,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Allodia,Allodia sp. BOLD:ACG3048,KM947792,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Oscinella,Oscinella sp. TAW2,KM935966,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KM935679,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,KM628543,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Allodia,Allodia sp. JWDCE271-10,JF874414,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Oscinella,Oscinella sp. TAW2,JF873939,74.8
+BR5,ESV_140802,Eukaryota,Arthropoda,Insecta,Neuroptera,Hemerobiidae,Hemerobius,Hemerobius sp. NEUBC056-10,JF839681,75.2
+BR5,ESV_140775,Eukaryota,Arthropoda,Insecta,Neuroptera,Coniopterygidae,NA,NA,MG469045,75.5
+BR5,ESV_140775,Eukaryota,Arthropoda,Insecta,Neuroptera,Coniopterygidae,NA,NA,MG465391,75.5
+BR5,ESV_140775,Eukaryota,Arthropoda,Insecta,Neuroptera,Coniopterygidae,NA,NA,KR381730,75.5
+BR5,ESV_140775,Eukaryota,Arthropoda,Insecta,Neuroptera,Coniopterygidae,NA,NA,KR380812,75.2
+BR5,ESV_140775,Eukaryota,Arthropoda,Insecta,Neuroptera,Coniopterygidae,NA,NA,KR379857,75.5
+BR5,ESV_140775,Eukaryota,Arthropoda,Insecta,Neuroptera,Coniopterygidae,NA,NA,KR378138,75.5
+BR5,ESV_140775,Eukaryota,Arthropoda,Insecta,Neuroptera,Coniopterygidae,NA,NA,KR376947,75.2
+BR5,ESV_140775,Eukaryota,Arthropoda,Insecta,Neuroptera,Coniopterygidae,NA,NA,KR144438,75.5
+BR5,ESV_140775,Eukaryota,Arthropoda,Insecta,Neuroptera,Coniopterygidae,NA,NA,KR143168,75.8
+BR5,ESV_140775,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,KM920557,75.2
+BR5,ESV_140745,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Incertella,Incertella incerta,KM631683,74.5
+BR5,ESV_064011,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KM642195,75.5
+BR5,ESV_140666,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,NA,NA,OM600193,74.5
+BR5,ESV_140666,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,NA,NA,OM559017,74.5
+BR5,ESV_140636,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycomya,Mycomya trivittata,MH114439,74.8
+BR5,ESV_140636,Eukaryota,Arthropoda,Insecta,Hymenoptera,Crabronidae,Crossocerus,Crossocerus nigritus,HQ943543,74.3
+BR5,ESV_140589,Eukaryota,Arthropoda,Insecta,Diptera,Psychodidae,NA,NA,OM708752,75.2
+BR5,ESV_140589,Eukaryota,Arthropoda,Insecta,Diptera,Psychodidae,NA,NA,OM604496,74.6
+BR5,ESV_140589,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,OM597546,74.5
+BR5,ESV_140589,Eukaryota,Arthropoda,Insecta,Diptera,Psychodidae,NA,NA,OM587404,75.2
+BR5,ESV_140589,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,OM586699,74.8
+BR5,ESV_140589,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,OM583247,74.8
+BR5,ESV_140589,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,OM314009,75.2
+BR5,ESV_140589,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,NA,NA,MK081308,74.5
+BR5,ESV_140589,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Monoclona,Monoclona sp. BIOUG21045-B02,MG092238,74.5
+BR5,ESV_140589,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Sciophila,Sciophila sp. BIOUG31046-E05,MG092045,74.5
+BR5,ESV_140589,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Sciophila,Sciophila sp. BIOUG21260-D01,MF866525,74.5
+BR5,ESV_140589,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KT118954,74.5
+BR5,ESV_140589,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR679435,74.5
+BR5,ESV_140589,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,Leptosciarella,Leptosciarella sp. BOLD-2016,KR463513,74.8
+BR5,ESV_140589,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina moravica,KP048041,74.6
+BR5,ESV_140589,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KM648074,74.5
+BR5,ESV_140579,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,OM601782,71
+BR5,ESV_140579,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,OM601289,70.6
+BR5,ESV_140579,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,OM594478,70.6
+BR5,ESV_140579,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina sp. BIOUG28271-D09,MG095515,71.3
+BR5,ESV_140579,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina sp. BIOUG28578-H07,MG093139,71.3
+BR5,ESV_140579,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina sp. BIOUG28508-E07,MG088895,71.3
+BR5,ESV_140200,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,Brachymyrmex,Brachymyrmex cordemoyi,MN822887,99.7
+BR5,ESV_140200,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,KM995933,98.7
+BR5,ESV_140200,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,NA,NA,HQ928620,98.7
+BR5,ESV_139328,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,NA,NA,KX051975,98.4
+BR5,ESV_139328,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,NA,NA,KX051968,98.4
+BR5,ESV_139328,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,NA,NA,KX051963,98.4
+BR5,ESV_139328,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,Cricotopus sp. BOLD:AAP3551,JF870689,98.4
+BR5,ESV_062299,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,Cricotopus sp. BIOUG23895-C03,MG308856,100
+BR5,ESV_062299,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,Cricotopus sp. BIOUG23903-B02,MG308688,100
+BR5,ESV_062299,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,Cricotopus sp. BIOUG24146-C03,MG307780,100
+BR5,ESV_062299,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,Cricotopus sp. BIOUG23899-H07,MG307227,100
+BR5,ESV_062299,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,Cricotopus sp. BIOUG24146-G04,MG305907,100
+BR5,ESV_062299,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,Cricotopus sp. BIOUG23522-G10,MG304553,100
+BR5,ESV_062299,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,Cricotopus sp. BIOUG23893-F12,MG303661,100
+BR5,ESV_062299,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,Cricotopus sp. BIOUG23661-E04,MG300262,100
+BR5,ESV_062299,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,Cricotopus sp. BIOUG27632-E01,MG145715,100
+BR5,ESV_062299,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,Cricotopus sp. BIOUG30449-E12,MG145499,100
+BR5,ESV_062299,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,Cricotopus sp. BIOUG27397-B01,MG143554,100
+BR5,ESV_062299,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,Cricotopus sp. BIOUG27398-E10,MG138627,100
+BR5,ESV_062299,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,Cricotopus sp. BIOUG14256-D10,MF726945,100
+BR5,ESV_062299,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,Cricotopus sp. BIOUG20545-F09,MF725313,100
+BR5,ESV_062299,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,Cricotopus sp. BIOUG21368-A01,MF725225,100
+BR5,ESV_062299,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,Cricotopus sp. BIOUG21179-F09,MF717173,100
+BR5,ESV_062299,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,Cricotopus sp. BOLD:AAG0996,KT609732,100
+BR5,ESV_062299,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,Cricotopus sp. BOLD-2016,KR767227,100
+BR5,ESV_062299,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,Cricotopus sp. BOLD:AAG0996,JF871453,100
+BR5,ESV_062299,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,Cricotopus bicinctus group sp. BOLD:AAG0996,JF870677,100
+BR5,ESV_140527,Eukaryota,Arthropoda,Insecta,Diptera,Drosophilidae,Mycodrosophila,Mycodrosophila gratiosa,LC194026,77.4
+BR5,ESV_140522,Eukaryota,Arthropoda,Insecta,Diptera,Dolichopodidae,Chrysotus,Chrysotus sp.,OL690415,89.4
+BR5,ESV_140522,Eukaryota,Arthropoda,Insecta,Diptera,Dolichopodidae,Gymnopternus,Gymnopternus metallicus,MZ632586,89
+BR5,ESV_140522,Eukaryota,Arthropoda,Insecta,Diptera,Dolichopodidae,Gymnopternus,Gymnopternus metallicus,MZ630464,88.7
+BR5,ESV_140522,Eukaryota,Arthropoda,Insecta,Diptera,Limoniidae,Gonomyia,Gonomyia simplex,MZ624046,88.7
+BR5,ESV_140522,Eukaryota,Arthropoda,Insecta,Diptera,Limoniidae,Paradelphomyia,Paradelphomyia fuscula,MZ608597,89
+BR5,ESV_140522,Eukaryota,Arthropoda,Insecta,Diptera,Limoniidae,Dicranomyia,Dicranomyia eulaliae,MZ196702,88.7
+BR5,ESV_140522,Eukaryota,Arthropoda,Insecta,Diptera,Limoniidae,Paradelphomyia,Paradelphomyia senilis,MZ196564,88.7
+BR5,ESV_140522,Eukaryota,Arthropoda,Insecta,Diptera,Culicidae,Anopheles,Anopheles latens,MW585357,88.7
+BR5,ESV_140522,Eukaryota,Arthropoda,Insecta,Diptera,Culicidae,Bironella,Bironella derooki,MT757856,89.7
+BR5,ESV_140522,Eukaryota,Arthropoda,Insecta,Diptera,Limoniidae,Antocha,Antocha sp. I14-199-03,MG091501,88.7
+BR5,ESV_140522,Eukaryota,Arthropoda,Insecta,Diptera,Limoniidae,NA,NA,KX053823,88.7
+BR5,ESV_140522,Eukaryota,Arthropoda,Insecta,Diptera,Limoniidae,NA,NA,KX053816,88.7
+BR5,ESV_140522,Eukaryota,Arthropoda,Insecta,Diptera,Empididae,Hilara,Hilara sp. 2 BKC-2015,KP264791,89.7
+BR5,ESV_140522,Eukaryota,Arthropoda,Insecta,Diptera,Tabanidae,Hybomitra,Hybomitra bimaculata,KM243503,88.7
+BR5,ESV_140505,Eukaryota,Arthropoda,Insecta,Hemiptera,Delphacidae,Epeurysa,Epeurysa nawaii,NC_052692,91.3
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,MG476969,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,MG473611,79.4
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,MG291697,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,MG159786,79.4
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,MG159187,79.4
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,MG156479,79.4
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,MG154379,79.4
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,MG153467,79.4
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,MG152675,79.4
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,MG151044,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,MG150501,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,MF848874,79.4
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,MF848413,79.4
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,MF848258,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,MF846295,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,MF845799,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,MF845443,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,MF842791,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,MF842004,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,MF840662,79
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR982298,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR973455,79.4
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR693387,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR683086,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR683027,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR680984,79
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR679519,79
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR590288,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR517929,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR516168,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR501627,79
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR496384,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR495674,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR462556,79
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR445098,79
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR444425,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR444271,79
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR441449,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR433802,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR433079,79
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR258350,79.4
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR258217,79.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR257908,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR256964,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR256262,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR255731,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR253424,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR253010,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR252678,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR251081,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR250408,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR249235,79.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR248617,79
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR247411,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR246701,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR245272,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR241152,79
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR238392,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR238261,79.4
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KP050111,79
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KP049014,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KP048659,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KP046752,79.4
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KP045941,79
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KP045847,79
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KP044926,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KP043759,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KP041147,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KP037589,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KM947633,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KM916678,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KM916011,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KM910764,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KM909308,79
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KM905414,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KM899235,78.7
+BR5,ESV_140490,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KM899102,79
+BR5,ESV_140479,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Diplotoxa,Diplotoxa sp. BIOUG05469-C02,MG478098,80
+BR5,ESV_140479,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Smittia,Smittia sp. 14ES,MG307205,79.6
+BR5,ESV_140479,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Diplotoxa,Diplotoxa versicolor,MG086863,80.3
+BR5,ESV_140479,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Diplotoxa,Diplotoxa sp. BIOUG03410-C05,MF825182,80
+BR5,ESV_140479,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Diplotoxa,Diplotoxa sp. BOLD-2016,KR468441,80
+BR5,ESV_140479,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycomya,Mycomya sp. BOLD-2016,KR444208,79.7
+BR5,ESV_140479,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycomya,Mycomya sp. BOLD:ACD8883,KM962276,80
+BR5,ESV_140479,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,KM927832,79.7
+BR5,ESV_140479,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Diplotoxa,Diplotoxa versicolor,KM629720,80
+BR5,ESV_140479,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Diplotoxa,Diplotoxa versicolor,KM626039,79.7
+BR5,ESV_140479,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Diplotoxa,Diplotoxa sp. BOLD:ACF3100,KJ164524,80
+BR5,ESV_140479,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Diplotoxa,Diplotoxa sp. BOLD:ACF3100,KJ164332,80.3
+BR5,ESV_140479,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Diplotoxa,Diplotoxa sp. BOLD:ACF3100,KJ163314,80
+BR5,ESV_140479,Eukaryota,Arthropoda,Insecta,Lepidoptera,Geometridae,Somatina,Somatina triocellata,JN285137,79.7
+BR5,ESV_140479,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Diplotoxa,Diplotoxa sp. BBDEE477-10,JF869587,80.6
+BR5,ESV_140479,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Diplotoxa,Diplotoxa sp. BBDEE313-10,HQ928369,80
+BR5,ESV_140479,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Diplotoxa,Diplotoxa sp. BBDEC364-09,HM412053,80.6
+BR5,ESV_140430,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eulophidae,Entedon,Entedon sp.,MW143321,71.6
+BR5,ESV_140430,Eukaryota,Arthropoda,Insecta,Hemiptera,Cicadellidae,Maiestas,Maiestas brevicula,MW036485,71.6
+BR5,ESV_140430,Eukaryota,Arthropoda,Insecta,Hemiptera,Cicadellidae,Maiestas,Maiestas rostriformis,MT998321,71.6
+BR5,ESV_140430,Eukaryota,Arthropoda,Insecta,Hemiptera,Flatidae,Metcalfa,Metcalfa pruinosa,MN609260,71.6
+BR5,ESV_140430,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,KM998063,71.6
+BR5,ESV_140430,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,KM997940,71.6
+BR5,ESV_140430,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,KM997906,71.6
+BR5,ESV_140430,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,KM997401,71.6
+BR5,ESV_140430,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,KM996859,71.6
+BR5,ESV_140430,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,KM996857,71.6
+BR5,ESV_140430,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,KM996197,71.6
+BR5,ESV_140430,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,KM995931,71.6
+BR5,ESV_139908,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycomya,Mycomya sp. BIOUG23031-D08,MG110366,76.8
+BR5,ESV_139908,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycomya,Mycomya sp. BIOUG28271-E08,MG095216,76.8
+BR5,ESV_139908,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycomya,Mycomya sp. BIOUG28110-G02,MG093730,76.8
+BR5,ESV_139908,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycomya,Mycomya sp. BIOUG22204-H01,MF889589,77.1
+BR5,ESV_139908,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycomya,Mycomya sp. BIOUG19688-C01,MF888661,77.1
+BR5,ESV_139908,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycomya,Mycomya sp. BIOUG22858-F02,MF888555,76.8
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,OM551164,76.8
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,OM049392,77.1
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,OK413618,76.8
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,MZ191878,76.8
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,MZ191876,76.8
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,MW496278,76.8
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,MW496277,76.8
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,MW496276,77.1
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,MW496275,76.8
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,MW496274,77.1
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,MW496273,76.8
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,MW496270,77.1
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,MW496267,77.4
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,MW496264,76.8
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,MW496263,77.1
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,MW496259,77.4
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,MW496257,77.7
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,MW496249,77.1
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,MW496246,76.8
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,MW496245,76.8
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,MW496241,77.1
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,MK331724,76.8
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,MF399784,77.1
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,MF399756,76.8
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,KY433488,76.8
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,KY433480,76.8
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,KT307839,76.8
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,KT307835,77.1
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Brachypogon,Brachypogon sp. 3CX,KT278199,76.8
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Clusiidae,Sobarocephala,Sobarocephala atricornis,KR654896,76.8
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,KP025651,76.8
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,KJ833679,77.1
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,KJ833678,76.8
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,KF682514,77.1
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,KF682503,77.1
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Lepidoptera,Plutellidae,Anthonympha,Anthonympha sp. BOLD:ABW6863,KF643019,77.1
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,KF528693,76.8
+BR5,ESV_139537,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,JN545049,76.8
+BR5,ESV_050377,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,Cricotopus sp. BOLD:AAN2568,JF870649,100
+BR5,ESV_035083,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KM934820,78.4
+BR5,ESV_035083,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Sticholeia,Sticholeia cheesmanae,KC435664,79
+BR5,ESV_140406,Eukaryota,Arthropoda,Insecta,Hemiptera,Cercopidae,Jacobsoniella,Jacobsoniella bakeri,OK094466,74.5
+BR5,ESV_140406,Eukaryota,Arthropoda,Insecta,Diptera,Tachinidae,Gastrolepta,Gastrolepta anthracina,KX844378,74.8
+BR5,ESV_140388,Eukaryota,Arthropoda,Insecta,Hymenoptera,Braconidae,Glyptapanteles,Glyptapanteles sp. ec3,MT469820,78.1
+BR5,ESV_140388,Eukaryota,Arthropoda,Insecta,Hymenoptera,Braconidae,Glyptapanteles,Glyptapanteles sp. ec3,MT469800,78.1
+BR5,ESV_140388,Eukaryota,Arthropoda,Insecta,Hymenoptera,Braconidae,Parapanteles,Parapanteles sp. glypt7,MN645304,77.4
+BR5,ESV_140388,Eukaryota,Arthropoda,Insecta,Hymenoptera,Braconidae,Parapanteles,Parapanteles sp. glypt6,MN645301,78.1
+BR5,ESV_140388,Eukaryota,Arthropoda,Insecta,Hymenoptera,Braconidae,Parapanteles,Parapanteles sp. glypt6,MN645300,77.7
+BR5,ESV_140388,Eukaryota,Arthropoda,Insecta,Hymenoptera,Braconidae,Parapanteles,Parapanteles sp. OConnor03,JN002241,78.4
+BR5,ESV_140388,Eukaryota,Arthropoda,Insecta,Hymenoptera,Braconidae,Parapanteles,Parapanteles sp. OConnor02,JN002219,78.4
+BR5,ESV_140384,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,NA,NA,OM705037,75.5
+BR5,ESV_140384,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,NA,NA,OM548306,75.5
+BR5,ESV_140384,Eukaryota,Arthropoda,Insecta,Hemiptera,Cicadidae,Calcagninus,Calcagninus sp. NCBS_AC213,MT639320,75.5
+BR5,ESV_140384,Eukaryota,Arthropoda,Insecta,Hemiptera,Cicadidae,Terpnosia,Terpnosia cf. mawi 12.VN.VC.TDQ.03,MT639301,75.5
+BR5,ESV_140384,Eukaryota,Arthropoda,Insecta,Coleoptera,Carabidae,Tachyta,Tachyta nana,MN344690,75.8
+BR5,ESV_140384,Eukaryota,Arthropoda,Insecta,Hemiptera,Cicadidae,Euterpnosia,Euterpnosia chibensis,MG737719,75.5
+BR5,ESV_140384,Eukaryota,Arthropoda,Insecta,Coleoptera,Carabidae,Typhlocharis,Typhlocharis sp. 4 aff. baetica CA-2017,MF539373,75.8
+BR5,ESV_140384,Eukaryota,Arthropoda,Insecta,Coleoptera,Carabidae,Typhlocharis,Typhlocharis sp. 4 aff. baetica CA-2017,MF539369,75.5
+BR5,ESV_140384,Eukaryota,Arthropoda,Insecta,Hemiptera,Cicadidae,Euterpnosia,Euterpnosia chibensis,LC508817,75.8
+BR5,ESV_140384,Eukaryota,Arthropoda,Insecta,Hemiptera,Cicadidae,Euterpnosia,Euterpnosia chibensis,LC508816,75.5
+BR5,ESV_140384,Eukaryota,Arthropoda,Insecta,Hemiptera,Cicadidae,Euterpnosia,Euterpnosia olivacea,LC508810,76.5
+BR5,ESV_140384,Eukaryota,Arthropoda,Insecta,Neuroptera,Osmylidae,Isostenosmylus,Isostenosmylus fusciceps,KY491674,76.1
+BR5,ESV_140384,Eukaryota,Arthropoda,Insecta,Neuroptera,Osmylidae,Isostenosmylus,Isostenosmylus fasciatus,KY491673,76.1
+BR5,ESV_140384,Eukaryota,Arthropoda,Insecta,Neuroptera,Sisyridae,Sisyra,Sisyra sp. CBCAD114-10,HM906579,76.1
+BR5,ESV_140384,Eukaryota,Arthropoda,Insecta,Coleoptera,Dytiscidae,Prodaticus,Prodaticus orissaensis,FJ796605,75.5
+BR5,ESV_140378,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,NA,NA,KM966683,71.3
+BR5,ESV_140350,Eukaryota,Arthropoda,Insecta,Hemiptera,Cicadellidae,Cassianeura,Cassianeura cassiae,MT985380,74.2
+BR5,ESV_140334,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,Bradysia,Bradysia pilistriata,MG295197,74.2
+BR5,ESV_140334,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,Bradysia,Bradysia pilistriata,KR618315,73.9
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Syrphidae,Eumerus,Eumerus sp. 1 PAA-2022a,OM791819,76.8
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Syrphidae,Eumerus,Eumerus sp. 1 PAA-2022a,OM791818,77.1
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,OM606711,77.1
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,OM602034,76.8
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,OM601347,77.1
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,OM599590,76.8
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,OM597567,77.1
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,OM596319,77.1
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,OM591614,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,OM583803,77.1
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,OM313825,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Aphanotrigonum,Aphanotrigonum nigripes,MZ628723,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Syrphidae,Eumerus,Eumerus bicornis,MK060002,76.8
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Syrphidae,Eumerus,Eumerus bicornis,MK060001,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Syrphidae,Eumerus,Eumerus bicornis,MK059995,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Syrphidae,Eumerus,Eumerus bicornis,MK059994,76.8
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Syrphidae,Eumerus,Eumerus basalis,MG559921,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Neuroptera,Sisyridae,Climacia,Climacia areolaris,MG468036,76.8
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Malloewia,Malloewia abdominalis,MG309117,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Malloewia,Malloewia abdominalis,MG309074,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Malloewia,Malloewia abdominalis,MG308898,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Malloewia,Malloewia abdominalis,MG308788,76.8
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Aphanotrigonum,Aphanotrigonum scabrum,MG308705,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Malloewia,Malloewia abdominalis,MG308238,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Malloewia,Malloewia abdominalis,MG304636,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Elachiptera,Elachiptera nigriceps,MG302558,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Malloewia,Malloewia abdominalis,MG301970,76.8
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Elachiptera,Elachiptera nigriceps,MG082466,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Olcella,Olcella sp. BIOUG21089-F01,MF826644,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,MF824001,76.8
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Olcella,Olcella sp. BIOUG21433-C05,MF823996,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Olcella,Olcella sp. BIOUG21468-G06,MF820465,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Olcella,Olcella parva,MF818876,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Coleoptera,Carabidae,Pogonus,Pogonus iridipennis,KX087338,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KX053999,76.8
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KX053998,77.1
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KX053997,76.8
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Limoniidae,NA,NA,KX053832,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,KT113667,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Elachiptera,Elachiptera sp. BOLD-2016,KR770096,76.8
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,KR761108,77.4
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Elachiptera,Elachiptera sp. BOLD-2016,KR757686,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Elachiptera,Elachiptera sp. BOLD-2016,KR657817,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Elachiptera,Elachiptera nigriceps,KR390842,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Syrphidae,Eumerus,Eumerus sp. JSS22745,KR260216,77.1
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,KP043750,76.8
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,KM938481,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,KM637181,77.4
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,KM624725,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,KM570128,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,KJ208431,77.1
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,KJ207945,77.4
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,NA,NA,NA,JQ344941,76.8
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Olcella,Olcella sp. BOLD:ABY7197,JF871961,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Hippelates,Hippelates sp. BOLD:AAH4173,JF871826,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Olcella,Olcella sp. BOLD:AAH4169,JF871636,76.8
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Malloewia,Malloewia sp. BOLD:AAP5159,JF871585,77.1
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,JF867842,77.4
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Olcella,Olcella sp. BOLD:ABY7197,HQ945391,76.8
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Malloewia,Malloewia diabolus,HM432748,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,HM417607,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Olcella,Olcella sp. BOLD:AAH4169,HM417343,77.1
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,NA,NA,HM417091,76.8
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Olcella,Olcella sp. BOLD:AAH4170,GU804099,77.1
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Olcella,Olcella sp. BOLD:AAH4170,GU804094,77.1
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Olcella,Olcella sp. BOLD:AAH4170,GU804092,76.8
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Tachinidae,Atacta,Atacta sp. brasiliensisDHJ02,GU141962,76.5
+BR5,ESV_140321,Eukaryota,Arthropoda,Insecta,Diptera,Calliphoridae,Chrysomya,Chrysomya rufifacies,AH015279,76.5
+BR5,ESV_139791,Eukaryota,Arthropoda,Insecta,Coleoptera,Staphylinidae,NA,NA,KP422389,70.4
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Sceptonia,Sceptonia nigra,MG475396,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,NA,NA,MG172907,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycetophila,Mycetophila sp. BIOUG01408-G12,MG102407,78.1
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Sceptonia,Sceptonia sp. BIOUG26567-E09,MG095170,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Sceptonia,Sceptonia sp. BIOUG22022-F09,MG093432,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Sceptonia,Sceptonia sp. BIOUG22022-H03,MG092953,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycetophila,Mycetophila sp. BIOUG26695-D12,MG091639,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Sceptonia,Sceptonia sp. BIOUG31086-G07,MG091364,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycetophila,Mycetophila sp. BIOUG32513-G08,MG091197,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycetophila,Mycetophila sp. BIOUG25547-G10,MG090598,78.1
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Sceptonia,Sceptonia sp. BIOUG21856-H07,MF892082,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Sceptonia,Sceptonia sp. BIOUG21528-E07,MF890377,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Sceptonia,Sceptonia sp. BIOUG21570-B08,MF887886,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Sceptonia,Sceptonia sp. BIOUG21208-H06,MF885841,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Sceptonia,Sceptonia sp. BIOUG21652-A06,MF885804,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycetophila,Mycetophila sp. BIOUG21044-C05,MF884768,78.1
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycetophila,Mycetophila sp. BOLD:ABV9019,KT622464,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycetophila,Mycetophila sp. BOLD-2016,KR761026,78.4
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR753905,78.4
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Sceptonia,Sceptonia sp. BOLD-2016,KR745558,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycetophila,Mycetophila sp. BOLD-2016,KR666192,78.4
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycetophila,Mycetophila sp. BOLD-2016,KR603841,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR513221,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Sceptonia,Sceptonia sp. BOLD-2016,KR509501,78.1
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Sceptonia,Sceptonia sp. BOLD:ACP3236,KR476289,78.1
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycetophila,Mycetophila sp. BOLD-2016,KR440947,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Sceptonia,Sceptonia sp. BOLD-2016,KR440027,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycetophila,Mycetophila sp. BOLD-2016,KR428150,78.1
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Sceptonia,Sceptonia sp. BOLD:AAG4967,KR257412,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR252738,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR241260,78.4
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR236557,78.1
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Sceptonia,Sceptonia sp. BOLD:AAG4967,KP049749,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KP044283,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Sceptonia,Sceptonia nigra,KP043962,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KM968249,78.1
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KM959696,78.4
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KM954330,78.4
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KM915356,78.4
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Sceptonia,Sceptonia sp. BOLD:AAG4967,KM641289,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KM636627,78.1
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KM636220,78.4
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Sceptonia,Sceptonia sp. TTMDJ090-10,HQ982110,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Sceptonia,Sceptonia sp. TTMDI596-10,HQ981749,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Sceptonia,Sceptonia sp. TTMDJ340-10,HQ582140,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycetophila,Mycetophila sp. TTMDJ335-10,HQ582135,78.1
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycetophila,Mycetophila sp. TTMDJ312-10,HQ582114,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycetophila,Mycetophila sp. TTMDJ304-10,HQ582107,78.1
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Sceptonia,Sceptonia sp. TTMDI1105-10,HQ581739,77.7
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycetophila,Mycetophila sp. BBDED895-10,HM413190,78.1
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycetophila,Mycetophila sp. BBDED780-10,HM413080,78.1
+BR5,ESV_138939,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Sceptonia,Sceptonia sp. BBDED771-10,HM413072,77.7
+BR5,ESV_140285,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Greenomyia,Greenomyia stackelbergi,MZ629532,73.2
+BR5,ESV_140285,Eukaryota,Arthropoda,Insecta,Hymenoptera,Crabronidae,Crossocerus,Crossocerus cinxius,MH610187,74
+BR5,ESV_140285,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycomya,Mycomya sp. BIOUG21868-D06,MF864343,73.2
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,Liriomyza,Liriomyza sativae,OP051162,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Simuliidae,Simulium,Simulium novemarticulatum,MZ508615,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,Liriomyza,Liriomyza sativae,MT919719,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,Liriomyza,Liriomyza sativae,MT511757,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,Liriomyza,Liriomyza sativae,MN525175,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,MG299039,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Sarcophagidae,Ravinia,Ravinia sp. BIOUG32400-G01,MG298528,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Sarcophagidae,Ravinia,Ravinia sp. BIOUG32484-F09,MG298370,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Sarcophagidae,Ravinia,Ravinia sp. BIOUG32484-G08,MG298019,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Sarcophagidae,Ravinia,Ravinia sp. BIOUG25520-H03,MG293024,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Sarcophagidae,Ravinia,Ravinia sp. BARS_2016_77_164,MG290100,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Sarcophagidae,Ravinia,Ravinia sp. BARS_2016_42_218,MG289847,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Sarcophagidae,Ravinia,Ravinia sp. BIOUG25627-A08,MG289361,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Sarcophagidae,Ravinia,Ravinia sp. BIOUG32196-H05,MG289349,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Sarcophagidae,Ravinia,Ravinia sp. BIOUG25520-H06,MG289172,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Sarcophagidae,Ravinia,Ravinia sp. BIOUG32400-A06,MG289000,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Syrphidae,Hadromyia,Hadromyia pulchra,MG170838,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,Cerodontha,Cerodontha longipennis,MG121661,74.8
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,Cerodontha,Cerodontha longipennis,MG119932,75.1
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,Cerodontha,Cerodontha longipennis,MG119101,74.8
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,Cerodontha,Cerodontha longipennis,MG117319,75.1
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,Cerodontha,Cerodontha longipennis,MG116648,74.8
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,Cerodontha,Cerodontha longipennis,MG115130,75.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,Cerodontha,Cerodontha longipennis,MG112687,74.8
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,Liriomyza,Liriomyza sativae,MF079257,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Coleoptera,Georissidae,NA,NA,KX035151,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,Cricotopus sp. BOLD:AAG0996,KT612783,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,KT607506,75.1
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Nilobezzia,Nilobezzia sp. 6DQ,KT278237,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,KR771818,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,Cerodontha,Cerodontha longipennis,KR769216,75.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,Cerodontha,Cerodontha longipennis,KR762656,75.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,Cerodontha,Cerodontha longipennis,KR759675,74.8
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,KR755097,75.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,KR753042,75.1
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,KR752162,74.8
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,KR752126,75.1
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,Cerodontha,Cerodontha longipennis,KR745820,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,Cerodontha,Cerodontha longipennis,KR739977,74.8
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,Cerodontha,Cerodontha longipennis,KR724717,74.8
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Sarcophagidae,Ravinia,Ravinia sp. BOLD-2016,KR690625,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,Cerodontha,Cerodontha longipennis,KR672186,74.8
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,Liriomyza,Liriomyza sativae,KR476579,74.8
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR444158,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR430819,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,KR394967,75.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,KR390476,74.8
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,NA,NA,KR294326,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,NA,NA,KR282696,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR248727,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,NA,NA,KR218640,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,NA,NA,KR178830,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,NA,NA,KR166411,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,KM864936,75.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Sarcophagidae,Ravinia,Ravinia anxia,KJ586351,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,KJ444231,75.1
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,Liriomyza,Liriomyza sativae,KF962575,74.8
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Sarcophagidae,NA,NA,KF030497,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,Chromatomyia,Chromatomyia horticola,KC136062,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Sarcophagidae,Ravinia,Ravinia sp. BOLD:AAH7157,JF872202,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,JF871957,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,JF871401,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,JF871393,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,JF871147,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Sarcophagidae,Ravinia,Ravinia sp. BBDCP250-10,JF868625,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Echinocladius,Echinocladius martini,HQ738748,75.1
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Echinocladius,Echinocladius martini,HQ738747,75.1
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Echinocladius,Echinocladius martini,HQ738744,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Echinocladius,Echinocladius martini,HQ738743,74.8
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Tachinidae,Copecrypta,Copecrypta sp. ASCRT358-10,HM881179,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Simuliidae,Simulium,Simulium duolongum,HM775281,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Tachinidae,Copecrypta,Copecrypta ruficauda,HM433871,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Tachinidae,Trichophora,Trichophora sp. ASCRW1281-10,HM420257,74.4
+BR5,ESV_140250,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Echinocladius,Echinocladius martini,EU670042,74.4
+BR5,ESV_140246,Eukaryota,Arthropoda,Insecta,Diptera,Dolichopodidae,Campsicnemus,Campsicnemus alpinus,MZ608742,92.9
+BR5,ESV_140246,Eukaryota,Arthropoda,Insecta,Diptera,Dolichopodidae,Campsicnemus,Campsicnemus umbripennis,MN868739,92.9
+BR5,ESV_140246,Eukaryota,Arthropoda,Insecta,Diptera,Dolichopodidae,Campsicnemus,Campsicnemus marginatus,KF297860,93.9
+BR5,ESV_140246,Eukaryota,Arthropoda,Insecta,Diptera,Dolichopodidae,Campsicnemus,Campsicnemus curvipes,FN868628,92.9
+BR5,ESV_140245,Eukaryota,Arthropoda,Insecta,Coleoptera,Carabidae,NA,NA,OM608504,74.2
+BR5,ESV_140245,Eukaryota,Arthropoda,Insecta,Coleoptera,Carabidae,Microcharidius,Microcharidius portilloi,MF539407,74.2
+BR5,ESV_140245,Eukaryota,Arthropoda,Insecta,Coleoptera,Carabidae,Microcharidius,Microcharidius portilloi,MF539296,74.2
+BR5,ESV_140245,Eukaryota,Arthropoda,Insecta,Coleoptera,Carabidae,Pterostichus,Pterostichus anthracinus,KU907937,74.2
+BR5,ESV_140245,Eukaryota,Arthropoda,Insecta,Coleoptera,Passalidae,NA,NA,JX412812,74.5
+BR5,ESV_140245,Eukaryota,Arthropoda,Insecta,Coleoptera,Carabidae,Notiobia,Notiobia terminata,HQ984442,74.5
+BR5,ESV_139183,Eukaryota,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Mimastra,Mimastra cyanura,MN344012,70.6
+BR5,ESV_139183,Eukaryota,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Mimastra,Mimastra sp. REN-2018,MG021079,71.3
+BR5,ESV_139183,Eukaryota,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Mimastra,Mimastra limbata,KC185731,71.3
+BR5,ESV_035401,Eukaryota,Arthropoda,Insecta,Lepidoptera,Erebidae,Spilarctia,Spilarctia mikeli,MW051033,71.9
+BR5,ESV_035401,Eukaryota,Arthropoda,Insecta,Lepidoptera,Geometridae,Scopula,Scopula oppilata,KF393885,72.5
+BR5,ESV_035401,Eukaryota,Arthropoda,Insecta,Lepidoptera,Geometridae,Scopula,Scopula oppilata,JN285152,72.8
+BR5,ESV_035401,Eukaryota,Arthropoda,Insecta,Hemiptera,Cicadidae,NA,NA,JF883475,72.5
+BR5,ESV_035401,Eukaryota,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Ceratinia,Ceratinia neso,EU068773,72.5
+BR5,ESV_035401,Eukaryota,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Ceratinia,Ceratinia neso,EU068772,72.2
+BR5,ESV_014804,Eukaryota,Arthropoda,Insecta,Diptera,Pipunculidae,Protonephrocerus,Protonephrocerus sp. Chile3,MW201182,76.8
+BR5,ESV_014804,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina dissipata,MG095288,76.1
+BR5,ESV_014804,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina dissipata,MG091312,76.1
+BR5,ESV_014804,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina sp. BOLD-2016,KR987363,76.1
+BR5,ESV_014804,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina sp. BOLD-2016,KR985589,76.1
+BR5,ESV_014804,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR472461,76.1
+BR5,ESV_014804,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina sp. BOLD-2016,KR430293,76.1
+BR5,ESV_014804,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR249056,76.1
+BR5,ESV_014804,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina sp. BOLD:AAL9139,KM915906,76.1
+BR5,ESV_014804,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina sp. BOLD:AAL9139,KM645034,76.5
+BR5,ESV_014804,Eukaryota,Arthropoda,Insecta,Diptera,Simuliidae,Cnephia,Cnephia ornithophilia,KC294508,76.1
+BR5,ESV_009827,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,MF141970,74.5
+BR5,ESV_140170,Eukaryota,Arthropoda,Insecta,Hymenoptera,Braconidae,Lathrapanteles,Lathrapanteles sp. BIOUG01049-H06,MG442202,70.3
+BR5,ESV_140115,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR659735,74.8
+BR5,ESV_140101,Eukaryota,Arthropoda,Insecta,Odonata,Calopterygidae,Calopteryx,Calopteryx maculata,KM383849,71.3
+BR5,ESV_140048,Eukaryota,Arthropoda,Insecta,Diptera,Limoniidae,NA,NA,OM584175,72.3
+BR5,ESV_140048,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladius sp. BOLD-2016,KR772222,72.6
+BR5,ESV_140014,Eukaryota,Arthropoda,Insecta,Diptera,Psychodidae,NA,NA,MF858401,75.5
+BR5,ESV_140014,Eukaryota,Arthropoda,Insecta,Diptera,Psychodidae,NA,NA,MF853240,75.5
+BR5,ESV_140014,Eukaryota,Arthropoda,Insecta,Diptera,Psychodidae,NA,NA,MF852440,75.5
+BR5,ESV_140014,Eukaryota,Arthropoda,Insecta,Diptera,Psychodidae,NA,NA,KT098588,75.5
+BR5,ESV_140014,Eukaryota,Arthropoda,Insecta,Diptera,Psychodidae,NA,NA,KT080780,75.5
+BR5,ESV_140014,Eukaryota,Arthropoda,Insecta,Diptera,Psychodidae,NA,NA,KT078031,75.5
+BR5,ESV_098024,Eukaryota,Arthropoda,Insecta,Lepidoptera,Gelechiidae,Metzneria,Metzneria aprilella,MN804063,72.6
+BR5,ESV_098024,Eukaryota,Arthropoda,Insecta,Lepidoptera,Pyralidae,Deuterollyta,Deuterollyta sp. zetilaDHJ02,JQ552508,72.9
+BR5,ESV_098024,Eukaryota,Arthropoda,Insecta,Lepidoptera,NA,NA,NA,JN269737,72.9
+BR5,ESV_098024,Eukaryota,Arthropoda,Insecta,Lepidoptera,Pyralidae,Deuterollyta,Deuterollyta sp. zetilaDHJ02,HM894174,73.2
+BR5,ESV_098024,Eukaryota,Arthropoda,Insecta,Lepidoptera,NA,NA,NA,HM407859,72.9
+BR5,ESV_098024,Eukaryota,Arthropoda,Insecta,Lepidoptera,NA,NA,NA,GU648538,73.2
+BR5,ESV_098024,Eukaryota,Arthropoda,Insecta,Lepidoptera,Stathmopodidae,NA,NA,FJ376651,72.6
+BR5,ESV_061307,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Eukiefferiella,Eukiefferiella claripennis,KR282929,100
+BR5,ESV_061307,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Eukiefferiella,Eukiefferiella sp. BOLD:ABZ4061,KM947000,100
+BR5,ESV_013179,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Phronia,Phronia mutabilis,MZ607537,77.4
+BR5,ESV_013179,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Boletina,Boletina sp. BIOUG21644-F08,MF867799,77.4
+BR5,ESV_000295,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,NA,NA,KR949622,74.2
+BR5,ESV_000295,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,NA,NA,KM932487,74.2
+BR5,ESV_139998,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,OM595737,81
+BR5,ESV_139998,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,OM587796,81.3
+BR5,ESV_139997,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Dynatosoma,Dynatosoma sp. BOLD:AAL9147,KR250849,72.9
+BR5,ESV_139997,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Dynatosoma,Dynatosoma sp. BOLD:AAL9147,KR244329,72.9
+BR5,ESV_139910,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Apedilum,Apedilum sp. CFWIE934-10,JF869892,99.4
+BR5,ESV_139910,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,NA,NA,HQ984571,99.4
+BR5,ESV_139893,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Zygomyia,Zygomyia sp. BIOUG25608-A10,MG091028,79.4
+BR5,ESV_139893,Eukaryota,Arthropoda,Insecta,Lepidoptera,Geometridae,Somatina,Somatina triocellata,KF389995,79.4
+BR5,ESV_139883,Eukaryota,Arthropoda,Insecta,NA,NA,NA,NA,KU720137,81.5
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Lepidoptera,Lycaenidae,Denivia,Denivia monica,OP431095,77.7
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Allactoneura,Allactoneura sp.,ON382287,77.7
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Diptera,Pipunculidae,Chalarus,Chalarus indistinctus,MZ624556,77.7
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Coleoptera,Scarabaeidae,Onthophagus,Onthophagus centricornis,MT707259,78.1
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Lepidoptera,Geometridae,Drepanulatrix,Drepanulatrix unicalcararia,MK739161,77.7
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Lepidoptera,NA,NA,NA,MK044495,78.1
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Coleoptera,Chrysomelidae,NA,NA,MH928836,77.7
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Lepidoptera,NA,NA,NA,MG986703,77.7
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Coleoptera,Lampyridae,Pteroptyx,Pteroptyx valida,MF624834,77.7
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,LC422942,77.7
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,LC422915,77.7
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Coleoptera,Dytiscidae,Acilius,Acilius canaliculatus,KU907389,78.4
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Allactoneura,Allactoneura sp. SMH-2016,KT175590,77.7
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR426987,77.7
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Dynatosoma,Dynatosoma sp. BOLD-2016,KR425926,77.7
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Dynatosoma,Dynatosoma sp. BOLD:AAP2522,KR257842,78.1
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR252436,77.7
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR251230,77.7
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Dynatosoma,Dynatosoma sp. BOLD:AAP2522,KR238014,77.7
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Dynatosoma,Dynatosoma sp. BOLD:AAL9147,KR236162,77.7
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KP045573,78.1
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Dynatosoma,Dynatosoma sp. CJB2,KP044223,77.7
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Aphanotrigonum,Aphanotrigonum darlingtoniae,KM969476,77.7
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Coleoptera,Scarabaeidae,Nanos,Nanos peyrierasi,KF309770,78.1
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Coleoptera,Scarabaeidae,Nanos,Nanos bimaculatus,KF309747,78.1
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Bombus,Bombus pascuorum,KC135906,78.1
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Coleoptera,Gyrinidae,Gyrinus,Gyrinus cf. minutus CHU1,KC016833,77.7
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Coleoptera,Scarabaeidae,NA,NA,JF890244,78.7
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Coleoptera,Scarabaeidae,NA,NA,JF890243,78.1
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Coleoptera,Scarabaeidae,NA,NA,JF890242,78.1
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Trichonta,Trichonta sp. JSDIP283-10,JF873199,78.4
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Trichonta,Trichonta sp. JSDIP129-10,JF873048,77.7
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Coleoptera,Sphaeriusidae,Sphaerius,Sphaerius acaroides,HQ954337,77.7
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Lepidoptera,Geometridae,Gnophos,Gnophos macguffini,HQ648431,77.7
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Lepidoptera,Geometridae,Gnophos,Gnophos macguffini,HQ648430,77.7
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Lepidoptera,Geometridae,Drepanulatrix,Drepanulatrix unicalcararia,HQ647797,78.1
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,NA,NA,HQ583002,78.1
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Trichonta,Trichonta sp. JWDCC540-10,HM861730,77.7
+BR5,ESV_139872,Eukaryota,Arthropoda,Insecta,Coleoptera,Dytiscidae,Acilius,Acilius canaliculatus,HM422001,78.1
+BR5,ESV_139871,Eukaryota,Arthropoda,Insecta,Coleoptera,Carabidae,Harpalus,Harpalus dimidiatus,KU918088,70.4
+BR5,ESV_139865,Eukaryota,Arthropoda,Insecta,Coleoptera,Staphylinidae,NA,NA,OP531813,76.8
+BR5,ESV_139865,Eukaryota,Arthropoda,Insecta,Coleoptera,Carabidae,NA,NA,OP528004,76.1
+BR5,ESV_139865,Eukaryota,Arthropoda,Insecta,Diptera,Syrphidae,Volucella,Volucella nigricans,MK870079,76.1
+BR5,ESV_139865,Eukaryota,Arthropoda,Insecta,Diptera,Hippoboscidae,Ornithoica,Ornithoica turdi,MK234697,76.1
+BR5,ESV_139865,Eukaryota,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Chaetocnema,Chaetocnema tibialis,MH407434,76.5
+BR5,ESV_139865,Eukaryota,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Chaetocnema,Chaetocnema tibialis,MH407433,76.5
+BR5,ESV_139865,Eukaryota,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Chaetocnema,Chaetocnema tibialis,KX943476,76.5
+BR5,ESV_139865,Eukaryota,Arthropoda,Insecta,Diptera,Tachinidae,Peleteria,Peleteria sp. BOLD:ABY4454,KM933377,76.1
+BR5,ESV_139865,Eukaryota,Arthropoda,Insecta,Coleoptera,Carabidae,Harpalus,Harpalus sp. BOLD:AAC8322,KM846693,76.1
+BR5,ESV_139865,Eukaryota,Arthropoda,Insecta,Coleoptera,Carabidae,Cryptophonus,Cryptophonus melancholicus,KM446358,76.5
+BR5,ESV_139865,Eukaryota,Arthropoda,Insecta,Coleoptera,Carabidae,Harpalus,Harpalus froelichii,KM441363,76.1
+BR5,ESV_139865,Eukaryota,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Chaetocnema,Chaetocnema tibialis,KM440990,76.5
+BR5,ESV_139865,Eukaryota,Arthropoda,Insecta,Coleoptera,Coccinellidae,Exochomus,Exochomus quadripustulatus,KM439470,76.1
+BR5,ESV_139865,Eukaryota,Arthropoda,Insecta,Coleoptera,Cleridae,Opilo,Opilo pallidus,KM285929,76.1
+BR5,ESV_139865,Eukaryota,Arthropoda,Insecta,Coleoptera,Cleridae,Opilo,Opilo pallidus,KM285847,76.1
+BR5,ESV_139865,Eukaryota,Arthropoda,Insecta,Coleoptera,Carabidae,Dicheirotrichus,Dicheirotrichus mannerheimii,KJ203103,76.1
+BR5,ESV_139865,Eukaryota,Arthropoda,Insecta,Hemiptera,Pseudococcidae,Kiritshenkella,Kiritshenkella sacchari,KF986271,77.1
+BR5,ESV_139865,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,JQ344962,76.8
+BR5,ESV_139865,Eukaryota,Arthropoda,Insecta,Diptera,Tachinidae,Peleteria,Peleteria sp. BBDCP761-10,JF869117,76.1
+BR5,ESV_139865,Eukaryota,Arthropoda,Insecta,Coleoptera,Endomychidae,Mycetina,Mycetina cruciata,HQ954100,76.1
+BR5,ESV_139865,Eukaryota,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Diabrotica,Diabrotica speciosa,FJ039869,76.1
+BR5,ESV_139865,Eukaryota,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Diabrotica,Diabrotica balteata,AF278553,76.1
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella sp. BIOUG13170-E02,MG472340,75.5
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Greenomyia,Greenomyia sp. BIOUG25548-D05,MG092106,75.8
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Greenomyia,Greenomyia sp. BIOUG25553-H10,MG091255,75.8
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella sp. BIOUG31114-F06,MG089794,75.8
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella sp. BIOUG15057-H05,MF891955,75.8
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella sp. BIOUG21522-A08,MF891693,75.5
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella sp. BIOUG15057-F02,MF888139,75.8
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella sp. BIOUG15057-E10,MF887789,76.1
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella sp. BIOUG15057-H04,MF886487,76.1
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella sp. BIOUG15057-F08,MF886072,76.1
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella sp. BIOUG15057-F12,MF885719,75.8
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella sp. BIOUG15057-F01,MF884580,75.8
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella sp. BIOUG15991-B01,MF883453,75.5
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella dimidiata,KT316843,75.5
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR774678,75.8
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella dimidiata,KR731277,75.5
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella dimidiata,KR730994,76.1
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella dimidiata,KR721669,75.5
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella dimidiata,KR718427,75.5
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella dimidiata,KR718106,75.5
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella dimidiata,KR717904,75.8
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella dimidiata,KR525751,75.8
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella dimidiata,KR524040,76.1
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella dimidiata,KR522068,75.8
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella dimidiata,KR521703,75.5
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella dimidiata,KR520174,75.8
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella dimidiata,KR516900,75.5
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR509305,75.8
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR438445,76.1
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella sp. BOLD:AAG4958,KR253334,76.1
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella sp. BOLD:AAG4958,KR243558,75.8
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella sp. BOLD:AAG4958,KM921064,75.8
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella dimidiata,KM679398,75.5
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella sp. BOLD:AAG4958,KM629488,75.8
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella sp. BBDCM017-10,JN290705,75.8
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella sp. BBDCM953-10,JF867546,75.8
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Greenomyia,Greenomyia sp. TTMDI1064-10,HQ581704,75.8
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella sp. BBDEE028-10,HM413300,75.8
+BR5,ESV_139829,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Rondaniella,Rondaniella sp. BBDED510-10,HM412845,76.1
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,OK075087,99.4
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,NC_035883,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,NC_001566,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MZ981768,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MW889003,99.4
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MW082036,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MW082035,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MT919701,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MT871837,99.4
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MT871785,99.4
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MT871687,99.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MT871334,99.4
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MT871199,99.4
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MT871137,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MT871090,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MT871039,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MT870761,99.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MT870606,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MT869868,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MT869771,99.4
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MT869677,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MT869281,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MT745915,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MT188686,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MT025741,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MN733955,99.4
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MN714162,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MN714161,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MN714160,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MN585110,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MN585109,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MN585108,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MN119925,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis sp. StKate18-TP5,MK037238,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MK030005,99.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis sp. BT-270,MK029981,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis sp. BT-267,MK029980,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis sp. BT-266,MK029979,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis sp. BT-277,MK029978,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis sp. BT-269,MK029977,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis sp. BT-276,MK029976,99.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis sp. BT-278,MK029975,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis sp. BT-274,MK029974,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis sp. BT-253,MK029973,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis sp. BT-252,MK029972,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,MK029971,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,MK029970,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,MK029969,99.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,MK029968,99.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MH341407,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MG552703,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MG552699,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MG552698,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MG552697,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MG552696,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MG552694,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MF678581,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MF100926,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,MF100911,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,LC626902,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,LC623655,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,KY614238,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,KY464958,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,KY464957,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,KX943034,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,NA,NA,KX781897,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,KX399332,99.4
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,KX051680,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis sp. BOLD:AAA2326,KR417678,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,KP844947,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,KP844927,99.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,KP844913,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,KM458618,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,KF833396,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,KF833394,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,KC560397,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,KC560388,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,KC560372,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,KC560341,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,KC560276,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,KC560274,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,KC560273,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,KC560270,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,JN292186,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,JF866080,99.4
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,JF866076,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,GU802455,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,GU802454,98.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,GU671649,99.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,AY114483,99.4
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,AY114482,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,AY114481,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,AY114480,99.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,AY114479,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,AY114477,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,AY114474,99
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,AY114460,99.7
+BR5,ESV_139826,Eukaryota,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,AY114459,99.4
+BR5,ESV_139814,Eukaryota,Arthropoda,Insecta,Diptera,Tachinidae,Gymnoclytia,Gymnoclytia sp. BIOUG31806-F07,MG170908,78.1
+BR5,ESV_139814,Eukaryota,Arthropoda,Insecta,Diptera,Tachinidae,Gymnoclytia,Gymnoclytia sp. BIOUG31834-H10,MG169419,78.1
+BR5,ESV_139814,Eukaryota,Arthropoda,Insecta,Diptera,Tachinidae,Gymnoclytia,Gymnoclytia sp. BIOUG31988-E08,MG166470,78.1
+BR5,ESV_139814,Eukaryota,Arthropoda,Insecta,Diptera,Muscidae,Thricops,Thricops diaphanus,MF885945,78.1
+BR5,ESV_139814,Eukaryota,Arthropoda,Insecta,Coleoptera,Carabidae,Tachyura,Tachyura diabrachys,KU917141,78.1
+BR5,ESV_139814,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR986808,78.1
+BR5,ESV_139814,Eukaryota,Arthropoda,Insecta,Diptera,Tachinidae,Gymnoclytia,Gymnoclytia occidua,KR662558,78.1
+BR5,ESV_139814,Eukaryota,Arthropoda,Insecta,Diptera,Muscidae,Thricops,Thricops diaphanus,KR444685,78.1
+BR5,ESV_139814,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR251599,78.1
+BR5,ESV_139814,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KM957069,78.1
+BR5,ESV_139814,Eukaryota,Arthropoda,Insecta,Diptera,Tachinidae,Gymnoclytia,Gymnoclytia sp. BOLD:AAG2334,KJ165575,78.1
+BR5,ESV_139814,Eukaryota,Arthropoda,Insecta,Coleoptera,Carabidae,Tachyura,Tachyura diabrachys,HQ954349,78.1
+BR5,ESV_139814,Eukaryota,Arthropoda,Insecta,Diptera,Tachinidae,Gymnoclytia,Gymnoclytia dubia,HM433868,78.7
+BR5,ESV_139814,Eukaryota,Arthropoda,Insecta,Diptera,Tachinidae,NA,NA,HM433836,79
+BR5,ESV_139814,Eukaryota,Arthropoda,Insecta,Diptera,Tachinidae,Gymnoclytia,Gymnoclytia occidua,GU694804,78.1
+BR5,ESV_139805,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KP049160,72.3
+BR5,ESV_139802,Eukaryota,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Leptomona,Leptomona erythrocephala,KF655303,70.3
+BR5,ESV_139802,Eukaryota,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Leptomona,Leptomona erythrocephala,KF655280,70
+BR5,ESV_139802,Eukaryota,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Leptomona,Leptomona erythrocephala,KF654621,70
+BR5,ESV_139802,Eukaryota,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Mantura,Mantura chrysanthemi,KF653806,70
+BR5,ESV_139802,Eukaryota,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Mantura,Mantura chrysanthemi,KF653233,70
+BR5,ESV_139755,Eukaryota,Arthropoda,Insecta,Diptera,Keroplatidae,Setostylus,Setostylus tridigitus,ON190026,75.2
+BR5,ESV_139755,Eukaryota,Arthropoda,Insecta,Diptera,Keroplatidae,Neoplatyura,Neoplatyura noorae,MT446936,75.8
+BR5,ESV_139755,Eukaryota,Arthropoda,Insecta,Diptera,Keroplatidae,NA,NA,KY833378,75.2
+BR5,ESV_139755,Eukaryota,Arthropoda,Insecta,Diptera,Psychodidae,Seoda,Seoda morula,KX784032,75.8
+BR5,ESV_139755,Eukaryota,Arthropoda,Insecta,Diptera,Psychodidae,Seoda,Seoda morula,KX784029,76.1
+BR5,ESV_139755,Eukaryota,Arthropoda,Insecta,Diptera,Keroplatidae,Neoplatyura,Neoplatyura noorae,KR506936,75.5
+BR5,ESV_139755,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycomya,Mycomya sp. BOLD:ACD8883,KM634596,75.2
+BR5,ESV_139755,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Brevicornu,Brevicornu sp. JWDCJ425-11,JF878005,75.2
+BR5,ESV_139755,Eukaryota,Arthropoda,Insecta,Diptera,Keroplatidae,Neoplatyura,Neoplatyura noorae,JF877789,75.2
+BR5,ESV_139703,Eukaryota,Arthropoda,Insecta,Coleoptera,Scarabaeidae,Maladera,Maladera rufocuprea,MW698429,71.9
+BR5,ESV_139703,Eukaryota,Arthropoda,Insecta,Coleoptera,Scarabaeidae,Maladera,Maladera rufocuprea,MW698336,71.6
+BR5,ESV_139703,Eukaryota,Arthropoda,Insecta,Coleoptera,Scarabaeidae,Maladera,Maladera rufocuprea,MW698301,71.6
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Psychodidae,Sergentomyia,Sergentomyia inermis,MT644228,86.1
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24169-F09,MG181091,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24126-D02,MG181082,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG26569-G11,MG181060,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG32632-D08,MG181057,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24125-B09,MG180886,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG32634-D12,MG180801,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24500-C05,MG180791,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG32305-H05,MG180692,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24498-F12,MG180469,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24126-F04,MG180192,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24124-A11,MG179949,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG26221-D03,MG179862,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24128-A03,MG179814,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24655-D05,MG179595,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG26571-B10,MG179544,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24125-A11,MG179318,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24129-G06,MG179100,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG32635-F10,MG179085,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG32605-G02,MG178794,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG32614-D01,MG178728,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24174-F04,MG178632,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24128-H01,MG178348,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24127-C02,MG178286,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24172-A10,MG178221,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG26694-E03,MG178210,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24126-G08,MG178050,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24651-E01,MG177930,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24500-H04,MG177851,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG32609-B12,MG177635,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG32632-F04,MG177422,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG32616-E12,MG177089,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24169-G08,MG176844,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24129-C10,MG176834,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24730-F09,MG176750,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24172-B11,MG176568,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG32304-E07,MG176433,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24124-C02,MG176386,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG32610-C12,MG176320,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24129-F06,MG176141,86.1
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,NA,NA,MG176058,86.1
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG32635-D06,MG175871,86.1
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24169-E07,MG175805,86.1
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24172-D07,MG175593,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24169-D07,MG175584,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24649-H05,MG175432,86.8
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,NA,NA,MG175431,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG32610-A01,MG175427,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24124-E01,MG175390,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24650-D05,MG175191,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG32634-H07,MG174887,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24169-B09,MG174801,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24125-B11,MG174792,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24125-H04,MG174754,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG32633-G08,MG174584,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG32611-A03,MG174545,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG01409-F09,MG174370,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG26569-B05,MG173945,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24169-D03,MG173837,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24129-H11,MG173752,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24124-C01,MG173672,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG32609-B06,MG173305,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG26217-A07,MG173155,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24125-G10,MG173048,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24500-E12,MG173027,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG26221-H04,MG172968,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24499-H10,MG172950,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG32611-C03,MG172856,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24159-C11,MG172832,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24170-A05,MG172675,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG26569-C11,MG172478,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG01409-E03,MG172429,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG26217-C08,MG171638,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG24500-D01,MG171351,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG26571-C11,MG171255,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG21861-F05,MF716429,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG21181-G07,MF716316,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG20956-E03,MF714535,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG21208-A04,MF713107,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG20820-C03,MF713060,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG21060-H05,MF712689,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG21067-H02,MF708773,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG21208-C05,MF708156,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BIOUG21205-H08,MF706795,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,NA,NA,KY840744,86.8
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,NA,NA,KY831220,86.8
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,NA,NA,NA,KX052607,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,NA,NA,NA,KX052593,87.1
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BOLD:AAN5162,KT611937,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BOLD:AAN5162,KT611771,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BOLD-2016,KT089716,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BOLD-2016,KT086096,86.1
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BOLD-2016,KT083643,86.1
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BOLD-2016,KR672174,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BOLD-2016,KR661542,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,NA,NA,KJ637494,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,NA,NA,KJ167329,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,NA,NA,JF871773,86.1
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BBDCN473-10,JF867991,86.5
+BR5,ESV_139688,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Dasyhelea,Dasyhelea sp. BOLD:AAN5162,HQ945280,86.5
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,NA,NA,NA,NA,KP422277,77.4
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,NA,NA,KP421783,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,NA,NA,NA,NA,KP421136,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182331,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182330,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182329,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182328,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182327,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182326,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182325,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182324,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182323,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182322,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182321,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182319,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182318,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182317,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182316,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182315,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182314,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182313,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182312,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182311,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182310,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182309,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182308,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182307,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182306,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182305,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182304,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182303,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182302,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182301,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182300,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182299,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182298,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182297,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182296,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182295,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182294,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182293,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182292,76.8
+BR5,ESV_139681,Eukaryota,Arthropoda,Insecta,Hymenoptera,Eucharitidae,NA,NA,KC182291,76.8
+BR5,ESV_139638,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Acnemia,Acnemia sp. BIOUG27061-C01,MF866456,70
+BR5,ESV_139638,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Acnemia,Acnemia sp. BIOUG26496-C01,MF863902,70
+BR5,ESV_139638,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Acnemia,Acnemia sp. BIOUG27056-D02,MF862700,70
+BR5,ESV_139638,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR457625,70
+BR5,ESV_139638,Eukaryota,Arthropoda,Insecta,Diptera,Keroplatidae,NA,NA,KM920255,70
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,Cricotopus sp. BIOUG23903-H09,MG308791,74.8
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Chironomidae,Cricotopus,Cricotopus sp. BIOUG27566-D06,MG143919,74.2
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Allodia,Allodia sp. BIOUG27632-H03,MG094304,74.2
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Zygomyia,Zygomyia pictipennis,MF891677,74.5
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,KY846299,74.5
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,KY845327,74.5
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,KY844762,74.5
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,KY843563,74.5
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,KY841806,74.5
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,KY836792,74.8
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,KY834879,74.5
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,KY832046,74.5
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,KY831733,74.5
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,KY830803,74.5
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR524360,74.2
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR518917,74.2
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR512621,74.5
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR499276,75.2
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR460889,74.2
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Zygomyia,Zygomyia zaitzevi,KR255874,74.5
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KM956423,74.2
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KM946471,74.2
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Zygomyia,Zygomyia zaitzevi,KM927288,74.5
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,KM630214,74.2
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,NA,NA,KM627519,74.2
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KJ092789,74.2
+BR5,ESV_139563,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Allodia,Allodia sp. TTMDI599-10,HQ981752,74.2
+BR5,ESV_139549,Eukaryota,Arthropoda,Insecta,Diptera,Tachinidae,Spathidexia,Spathidexia dunningii,MF837106,70.7
+BR5,ESV_139549,Eukaryota,Arthropoda,Insecta,Diptera,Tachinidae,NA,NA,KR512534,70.7
+BR5,ESV_139517,Eukaryota,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Pimelia,Pimelia sp. Rif_14_33_1,MH158030,74.8
+BR5,ESV_139517,Eukaryota,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Pimelia,Pimelia sp. Rif_14_29_2,MH158029,74.8
+BR5,ESV_139517,Eukaryota,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Pimelia,Pimelia sp. Rif_14_11_10,MH158027,74.8
+BR5,ESV_139517,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Mycetophila,Mycetophila lunata,KM679400,74.8
+BR5,ESV_139486,Eukaryota,Arthropoda,Insecta,Hymenoptera,Mymaridae,NA,NA,JF866869,79
+BR5,ESV_139485,Eukaryota,Arthropoda,Insecta,Ephemeroptera,Oligoneuriidae,Fittkauneuria,Fittkauneuria adusta,MG516462,71.6
+BR5,ESV_138362,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,NA,NA,MG473551,71.7
+BR5,ESV_075012,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,MG156834,76.8
+BR5,ESV_075012,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR459646,76.1
+BR5,ESV_075012,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR254985,76.1
+BR5,ESV_075012,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR235390,75.8
+BR5,ESV_075012,Eukaryota,Arthropoda,Insecta,Diptera,Psychodidae,Lutzomyia,Lutzomyia castanea,AB984426,75.8
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318170,KX296652,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318003,KX296483,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318105,KX296369,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318200,KX296326,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318142,KX296302,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318036,KX296186,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318211,KX296102,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318205,KX296066,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318119,KX296055,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318048,KX295953,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318103,KX295870,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318038,KX295682,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,NA,NA,NA,KX295666,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0360023,KX295661,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318047,KX295654,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318084,KX295647,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318136,KX295615,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318075,KX295604,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0360021,KX295548,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318156,KX295528,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318183,KX295527,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0360016,KX295526,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318201,KX295450,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318096,KX295322,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0360015,KX295305,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. BIOUG04419-E06,KX295279,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318037,KX295252,97.4
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318118,KX295191,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318196,KX295190,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318176,KX295147,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0018019,KX295048,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318039,KX295045,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318062,KX295028,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0018023,KX295007,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318111,KX294999,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318212,KX294974,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318027,KX294918,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0360005,KX294887,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318059,KX294859,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318055,KX294853,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0360019,KX294821,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318124,KX294812,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318128,KX294735,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318203,KX294692,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318166,KX294608,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318079,KX294598,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0018015,KX294531,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318135,KX294509,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318147,KX294478,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0360008,KX294472,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318005,KX294455,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318191,KX294348,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318032,KX294325,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318011,KX294191,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318045,KX294049,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318100,KX294042,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318108,KX293956,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318052,KX293945,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318197,KX293942,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318089,KX293871,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318127,KX293429,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318080,KX293220,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318137,KX293116,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318033,KX292760,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318012,KX292302,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318113,KX292278,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318187,KX292264,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318083,KX292236,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. BIOUG04419-G12,KX292187,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318076,KX292175,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318044,KX292031,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318126,KX291946,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318073,KX291909,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0360020,KX291837,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318077,KX291797,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318046,KX291786,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318157,KX291621,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318061,KX291620,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318072,KX291608,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318099,KX291599,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318148,KX291522,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. BIOUG04419-F03,KX291348,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318182,KX291182,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0318150,KX291162,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. BIOUG04419-F02,KX291140,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0315001,KX291091,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0128008,KX143547,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila icona,KX143163,97.4
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila icona,KX142524,97.4
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0128006,KX142417,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0128004,KX142087,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. SCCWRP0128003,KX141627,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila icona,HQ945577,97.1
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. CFWIF563-10,HQ941035,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. CFWIF558-10,HQ941034,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. BOLD:AAE1778,HQ940833,97.4
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. BOLD:AAE1778,HQ940830,97.7
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. BOLD:AAE1778,HQ940825,97.4
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sp. BOLD:AAE1778,HQ939933,97.4
+BR5,ESV_139218,Eukaryota,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila ajax,HM400202,97.1
+BR5,ESV_071553,Eukaryota,Arthropoda,Insecta,Plecoptera,Capniidae,Mesocapnia,Mesocapnia daxingana,KY568983,70
+BR5,ESV_008631,Eukaryota,Arthropoda,Insecta,Diptera,Simuliidae,Simulium,Simulium petricolum,OK066353,70.3
+BR5,ESV_008631,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Exechia,Exechia micans,MN678478,70
+BR5,ESV_008631,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Exechia,Exechia micans,MN677898,70
+BR5,ESV_008631,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Exechia,Exechia micans,MN677049,70
+BR5,ESV_008631,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Exechia,Exechia micans,MN676146,70
+BR5,ESV_008631,Eukaryota,Arthropoda,Insecta,Diptera,Simuliidae,NA,NA,MN372453,70
+BR5,ESV_008631,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Exechia,Exechia micans,MF889038,70
+BR5,ESV_008631,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Exechia,Exechia sp. BOLD-2016,KR984939,70
+BR5,ESV_008631,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Exechia,Exechia sp. BOLD-2016,KR476328,70
+BR5,ESV_008631,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR471471,70
+BR5,ESV_008631,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Exechia,Exechia sp. BOLD-2016,KR465394,70.3
+BR5,ESV_008631,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR444859,70
+BR5,ESV_008631,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR239272,70
+BR5,ESV_008631,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Exechia,Exechia sp. CJB1,KM944753,70
+BR5,ESV_008631,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,Exechia,Exechia sp. BOLD:AAP1822,KM908554,70
+BR5,ESV_008631,Eukaryota,Arthropoda,Insecta,Diptera,Asilidae,Dasyllis,Dasyllis sp. Janzen01,JQ525632,70
+BR5,ESV_008631,Eukaryota,Arthropoda,Insecta,Diptera,Simuliidae,Simulium,Simulium petricolum,GQ465967,70
+BR5,ESV_008631,Eukaryota,Arthropoda,Insecta,Diptera,Simuliidae,Simulium,Simulium petricolum,GQ465951,70
+BR5,ESV_008631,Eukaryota,Arthropoda,Insecta,Diptera,Simuliidae,Simulium,Simulium petricolum,GQ465949,70.3
+BR5,ESV_139176,Eukaryota,Arthropoda,Insecta,Coleoptera,Lampyridae,Pteroptyx,Pteroptyx asymmetria,MF624801,76.5
+BR5,ESV_139176,Eukaryota,Arthropoda,Insecta,Coleoptera,Lampyridae,Pteroptyx,Pteroptyx asymmetria,MF624794,76.8
+BR5,ESV_139176,Eukaryota,Arthropoda,Insecta,Coleoptera,Lampyridae,Pteroptyx,Pteroptyx tener,KY572989,76.5
+BR5,ESV_139176,Eukaryota,Arthropoda,Insecta,Coleoptera,Scarabaeidae,Nanos,Nanos punctatus,KF309793,77.1
+BR5,ESV_139176,Eukaryota,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Diabrotica,Diabrotica undecimpunctata,HQ582725,76.5
+BR5,ESV_139176,Eukaryota,Arthropoda,Insecta,Lepidoptera,Nepticulidae,Ectoedemia,Ectoedemia similella,HM424009,76.8
+BR5,ESV_139176,Eukaryota,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Diabrotica,Diabrotica undecimpunctata,AF278556,76.5
+BR5,ESV_139160,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR521573,74.2
+BR5,ESV_139160,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KR244572,74.2
+BR5,ESV_139160,Eukaryota,Arthropoda,Insecta,Diptera,Mycetophilidae,NA,NA,KJ089069,74.2
+BR5,ESV_139160,Eukaryota,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Paranapiacaba,Paranapiacaba sp. JJG094,AY242486,73.9
+BR5,ESV_139141,Eukaryota,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Heterotarsus,Heterotarsus carinula,MT129205,71.3
+BR5,ESV_139118,Eukaryota,Arthropoda,Insecta,Siphonaptera,Ceratophyllidae,Opisodasys,Opisodasys pseudarctomys,MG375272,72.9
+BR5,ESV_139118,Eukaryota,Arthropoda,Insecta,Diptera,Psychodidae,Hemimormia,Hemimormia sp. 1GMK,MF966160,72.9
+BR5,ESV_138965,Eukaryota,Arthropoda,Insecta,Coleoptera,Oedemeridae,NA,NA,KX054241,98.4
+BR5,ESV_138965,Eukaryota,Arthropoda,Insecta,Coleoptera,Oedemeridae,NA,NA,KX054239,98.4
+BR5,ESV_138965,Eukaryota,Arthropoda,Insecta,Coleoptera,Oedemeridae,NA,NA,KX054238,98.4
+BR5,ESV_138965,Eukaryota,Arthropoda,Insecta,Coleoptera,Oedemeridae,NA,NA,KX054236,98.4
+BR5,ESV_138965,Eukaryota,Arthropoda,Insecta,Coleoptera,Oedemeridae,NA,NA,KX054235,98.4
+BR5,ESV_138965,Eukaryota,Arthropoda,Insecta,Coleoptera,Oedemeridae,NA,NA,KX054234,98.4
+BR5,ESV_138965,Eukaryota,Arthropoda,Insecta,Coleoptera,Oedemeridae,NA,NA,KX054233,98.4
+BR5,ESV_138965,Eukaryota,Arthropoda,Insecta,Coleoptera,Oedemeridae,NA,NA,KX054229,98.4
+BR5,ESV_079496,Eukaryota,Arthropoda,Insecta,Diptera,Tachinidae,Senometopia,Senometopia quarta,JF872400,75.5
+BR5,ESV_138726,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR507203,77.7
+BR5,ESV_138550,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Aphanotrigonum,Aphanotrigonum trilineatum,MZ627602,70.5
+BR5,ESV_138550,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Aphanotrigonum,Aphanotrigonum trilineatum,MZ608353,71.1
+BR5,ESV_138550,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Aphanotrigonum,Aphanotrigonum trilineatum,MG301972,70.5
+BR5,ESV_138550,Eukaryota,Arthropoda,Insecta,Diptera,Chloropidae,Aphanotrigonum,Aphanotrigonum nigripes,KM947058,70.5
+BR5,ESV_138412,Eukaryota,Arthropoda,Insecta,Coleoptera,Lampyridae,Pteroptyx,Pteroptyx asymmetria,MF624802,75.8
+BR5,ESV_138412,Eukaryota,Arthropoda,Insecta,Coleoptera,Carabidae,Lionepha,Lionepha chintimini,KU233842,75.8
+BR5,ESV_138412,Eukaryota,Arthropoda,Insecta,Diptera,Muscidae,Hydrotaea,Hydrotaea militaris,KR471040,75.8
+BR5,ESV_138412,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR251973,75.8
+BR5,ESV_138412,Eukaryota,Arthropoda,Insecta,Diptera,Sciaridae,NA,NA,KR235420,75.8
+BR5,ESV_138412,Eukaryota,Arthropoda,Insecta,Diptera,Muscidae,Hydrotaea,Hydrotaea militaris,KM644256,75.8
+BR5,ESV_138412,Eukaryota,Arthropoda,Insecta,Coleoptera,Ptiliidae,Nephanes,Nephanes titan,KM442120,76.8
+BR5,ESV_138412,Eukaryota,Arthropoda,Insecta,Diptera,Tachinidae,Tachinidae gen. tachJanzen01,Tachinidae gen. tachJanzen01 sp. Janzen01,JQ576361,75.8
+BR5,ESV_138412,Eukaryota,Arthropoda,Insecta,Diptera,Muscidae,Helina,Helina sp. BOLD:AAU5064,JN298983,76.1
+BR5,ESV_138412,Eukaryota,Arthropoda,Insecta,Coleoptera,Scarabaeidae,NA,NA,JF890610,75.8
+BR5,ESV_138412,Eukaryota,Arthropoda,Insecta,Coleoptera,Scarabaeidae,NA,NA,JF890574,75.8
+BR5,ESV_138412,Eukaryota,Arthropoda,Insecta,Coleoptera,Scarabaeidae,NA,NA,JF890573,76.1
+BR5,ESV_138412,Eukaryota,Arthropoda,Insecta,Coleoptera,Scarabaeidae,NA,NA,JF890542,76.1
+BR5,ESV_138412,Eukaryota,Arthropoda,Insecta,Coleoptera,Scarabaeidae,NA,NA,JF890537,76.5
+BR5,ESV_138412,Eukaryota,Arthropoda,Insecta,Coleoptera,Scarabaeidae,NA,NA,JF890536,76.5
+BR5,ESV_138412,Eukaryota,Arthropoda,Insecta,Coleoptera,Scarabaeidae,NA,NA,JF890533,75.8
+BR5,ESV_138412,Eukaryota,Arthropoda,Insecta,Neuroptera,Sisyridae,NA,NA,JF839840,76.8
+BR5,ESV_138412,Eukaryota,Arthropoda,Insecta,Diptera,Agromyzidae,Cerodontha,Cerodontha sp. BOLD:ACO8800,GU694943,75.8
+BR5,ESV_138306,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Thrips,Thrips hawaiiensis,LC650829,100
+BR5,ESV_138306,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Thrips,Thrips hawaiiensis,HQ605949,100
+BR5,ESV_138306,Eukaryota,Arthropoda,Insecta,Coleoptera,Cerambycidae,Purpuricenus,Purpuricenus spectabilis,DQ861317,100
+BR5,ESV_025359,Eukaryota,Arthropoda,Insecta,Diptera,Syrphidae,Paragus,Paragus borbonicus,MW474040,76.5
+BR5,ESV_025359,Eukaryota,Arthropoda,Insecta,Hemiptera,Cicadidae,Rustia,Rustia dentivitta,MT639243,77.1
+BR5,ESV_025359,Eukaryota,Arthropoda,Insecta,Hemiptera,Cicadidae,Cosmopsaltria,Cosmopsaltria gestroei,MG953065,76.8
+BR5,ESV_025359,Eukaryota,Arthropoda,Insecta,Hemiptera,Clastopteridae,Clastoptera,Clastoptera arborina,KR034438,76.5
+BR5,ESV_025359,Eukaryota,Arthropoda,Insecta,Coleoptera,Melyridae,Collops,Collops vittatus,KM846563,76.5
+BR5,ESV_025359,Eukaryota,Arthropoda,Insecta,Coleoptera,Melyridae,Collops,Collops vittatus,KM844068,76.5
+BR5,ESV_025359,Eukaryota,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,Culicoides oxystoma,KF682533,76.5
+BR5,ESV_025359,Eukaryota,Arthropoda,Insecta,Hemiptera,Cicadidae,Pycna,Pycna semiclara,JQ618301,76.5
