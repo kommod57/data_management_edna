@@ -138,8 +138,7 @@ print(unique(no_insect_no_crust_insect_data$Phylum))
 
 #Read and check the phytoplankton file
 phyto_data <- read_csv(file.choose())
-phyto_phylums <- c("Bacillariophyta", "Rhodophyta", "Chlorophyta", "Haptophyta", "Streptophyta",
-                   "Cerecozoa", "Cyanobacteriota")
+phyto_phylums <- c("Bacillariophyta", "Rhodophyta", "Chlorophyta", "Haptophyta", "Streptophyta", "Cercozoa", "Cyanobacteriota", "Cyanobacteria")
 only_phyto_phylumns_phyto_data <- phyto_data %>%
   filter(str_detect(Phylum, paste0(phyto_phylums, collapse="|")))
 other_phyto_data <- phyto_data %>%
@@ -148,6 +147,16 @@ only_phyto_phylumns_insect_data <- insect_data %>%
   filter(str_detect(Phylum, paste0(phyto_phylums, collapse="|")))
 only_phyto_phylumns_crust_data <- crust_data %>%
   filter(str_detect(Phylum, paste0(phyto_phylums, collapse="|")))
+print(unique(other_phyto_data$Phylum))
+# output: "unk_phylum" "Euglenozoa" "Chordata" 
+only_phyto_phylumns_phyto_data <- only_phyto_phylumns_phyto_data %>%
+  mutate(TestId = as.character(TestId))
+
+only_phyto_phylumns_insect_data <- only_phyto_phylumns_insect_data %>%
+  mutate(TestId = as.character(TestId))
+combined_phyto_insect_crust <- add_rogue_species(only_phyto_phylumns_phyto_data, only_phyto_phylumns_insect_data)
+combined_phyto_insect_crust <- add_rogue_species(combined_phyto_insect_crust, only_phyto_phylumns_crust_data)
+combined_phyto_insect_crust <- delete_repeats(combined_phyto_insect_crust)
 
 
 # checking file lengths
