@@ -133,9 +133,21 @@ print(unique(no_insect_no_crust_insect_data$Phylum))
   #[25] "Ascomycota"         "Tardigrada"         "Tubulinea"          "Chytridiomycota"   
   #[29] "Haptophyta"         "Echinodermata"      "Platyhelminthes"    "Bryozoa"           
   #[33] "Endomyxa"           "Cercozoa" 
+# In both datasets several of these are phyto plankton which are phyla: 
+  #Bacillariophyta, Rhodophyta, Chlorophyta, Haptophyta, Streptophyta, Cerecozoa, Cyanobacteria
 
-# In both datasets several of these are phyto plankton which is 
-
+#Read and check the phytoplankton file
+phyto_data <- read_csv(file.choose())
+phyto_phylums <- c("Bacillariophyta", "Rhodophyta", "Chlorophyta", "Haptophyta", "Streptophyta",
+                   "Cerecozoa", "Cyanobacteriota")
+only_phyto_phylumns_phyto_data <- phyto_data %>%
+  filter(str_detect(Phylum, paste0(phyto_phylums, collapse="|")))
+other_phyto_data <- phyto_data %>%
+  filter(!str_detect(Phylum, paste0(phyto_phylums, collapse="|")))
+only_phyto_phylumns_insect_data <- insect_data %>%
+  filter(str_detect(Phylum, paste0(phyto_phylums, collapse="|")))
+only_phyto_phylumns_crust_data <- crust_data %>%
+  filter(str_detect(Phylum, paste0(phyto_phylums, collapse="|")))
 
 
 # checking file lengths
